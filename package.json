@@ -1,0 +1,27 @@
+{
+      "name"                    : "ee-mime-decoder"
+    , "description"             : "decodes mime messages, supports streaming"
+    , "version"                 : "0.1.0"
+    , "homepage"                : "https://github.com/eventEmitter/ee-mime-decoder"
+    , "author"                  : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
+    , "licence"                 : "MIT"
+    , "os"                      : "linux"
+    , "repository": {
+        "url"                   : "https://github.com/eventEmitter/ee-mime-decoder"
+    }
+    , "engines": {
+        "node"                  : ">=0.10.7"
+    }
+    , "bugs": {
+        "url"                   : "https://github.com/eventEmitter/ee-mime-decoder/issues"
+    }
+    , "dependencies": {
+          "ee-class"            : ">=0.1.3"
+        , "ee-log"              : "*"
+        , "ee-event-emitter"    : "*"
+        , "ee-types"            : "*"
+        , "ee-stream-decoder"   : "*"
+    }
+    , "devDependencies": {}
+    , "optionalDependencies": {}
+}
