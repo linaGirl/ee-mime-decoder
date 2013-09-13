@@ -20,7 +20,9 @@
         , "ee-log"              : "*"
         , "ee-event-emitter"    : "*"
         , "ee-types"            : "*"
+        , "ee-error"            : "*"
         , "ee-stream-decoder"   : "*"
+        , "ee-stream-collector" : "*"
     }
     , "devDependencies": {}
     , "optionalDependencies": {}
