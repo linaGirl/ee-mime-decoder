@@ -7,32 +7,46 @@
 		, fs 				= require( "fs" );
 
 
+	var msg = "msg4";
 
 
-	var stream = fs.createReadStream( __dirname + "/test/msg1.mime" );
+	var stream = fs.createReadStream( __dirname + "/test/"+msg+".mime" );
 
 
 	var decoder = new MimeDecoder();
 	decoder.on( "data", function( part ){
-		log.error( "PAAAAART!");
+		log.error( "new part!");
 		if ( part.isStream ){
-			log( "stream" );
-			var s = new StreamCollector();
-
-			part.on( "data", function( chunk ){
-				log( "got data", chunk );
-			} );
-			part.on( "end", function( data ){
+			log( "the part is a stream" );
+			var s = fs.createWriteStream(  __dirname + "/test/"+msg+".data" )
+			/*var s = new StreamCollector();
+			s.on( "end", function( data ){
 				log( "stream end" );
 				log( data );
-			} );
+			} );*/
 
-			// part.pipe( s );
+			part.pipe( s );
 		}
 	} );
+
+
+	var printer = function( parts, level ){
+		level = level || 0;
+
+		parts.forEach( function( part ){
+			log.info( "part length", part.length );
+			log( part.headers.get( "content-type", true ) );
+			if ( part.hasChildren() ){
+				printer( part.parts, level + 1 );
+			}
+		} );
+	}
+
 	decoder.on( "end", function(){ 
-		log( "fetig" );
-		log( decoder.parts );
+		log( "finished ..." );
+		var messages = decoder.getMessage();
+
+		printer( messages.parts );
 	} );
 
 
