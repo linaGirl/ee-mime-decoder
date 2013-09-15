@@ -24,7 +24,7 @@ If you need to decode mime messages from a http form request you should use the 
 
 		// handle incoming decoded mime message parts
 		decoder.on( "data", function( obj ){
-			if ( obj.isStream() ){
+			if ( obj.isStream ){
 				// mime objet implementing the readable stream interface
 				// we got a binary mime part ( e.g. attachment, file upload )
 
@@ -33,6 +33,7 @@ If you need to decode mime messages from a http form request you should use the 
 
 					var collector = new StreamCollector();
 					collector.on( "end", function(){
+						// store the data on the mime object
 						obj.data = collector.data;
 					} );
 
@@ -41,7 +42,7 @@ If you need to decode mime messages from a http form request you should use the 
 				}
 				else if ( iWantToStoreTheFilesInTheFileSystem ){
 					// store the file in the fs
-					fs.createWriteStream( "/path/to/the/new/file" ).pipe( writer );
+					ob.pipe( fs.createWriteStream( "/path/to/the/new/file" ) );
 
 					// we need to know where the data was stored
 					obj.path = "/path/to/the/new/file";
@@ -61,13 +62,9 @@ If you need to decode mime messages from a http form request you should use the 
 		decoder.on( "end", function(){
 			var mimeMessage = decoder.getMessage();
 
-			Object.keys( mimeMessage ).forEach( function( key ){
-				console.log(  );
-			} );
-
-			decoder.getMessage().files.forEach( function( file ){
-				// do whatever you want to do
-
+			mimeMessage.parts.forEach( function( part ){
+				console.log( part.length, part.getHeader( "content-type" ) );
+				if ( part.hasChildren() ) console.log( "the part has %s children", part.parts.length );
 			} );
 		} );
 	} );
