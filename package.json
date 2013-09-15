@@ -1,6 +1,6 @@
 {
       "name"                    : "ee-mime-decoder"
-    , "description"             : "decodes mime messages, supports streaming"
+    , "description"             : "streaming mime message decoder, supports streaming of attachments & file uploads"
     , "version"                 : "0.1.0"
     , "homepage"                : "https://github.com/eventEmitter/ee-mime-decoder"
     , "author"                  : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
