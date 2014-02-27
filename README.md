@@ -8,6 +8,13 @@ If you need to decode mime messages from a http form request you should use the 
 	
 	npm install ee-mime-decoder
 
+## build status
+
+[![Build Status](https://travis-ci.org/eventEmitter/ee-mime-decoder.png?branch=master)](https://travis-ci.org/eventEmitter/ee-mime-decoder)
+
+
+## usage
+
 
 # usage
 	
