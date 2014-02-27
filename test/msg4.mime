@@ -1,0 +1,754 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: michael@joinbox.com
+Received: by 10.140.84.146 with SMTP id l18csp25861qgd;
+        Mon, 24 Feb 2014 00:07:20 -0800 (PST)
+X-Received: by 10.66.65.204 with SMTP id z12mr23483791pas.60.1393229236769;
+        Mon, 24 Feb 2014 00:07:16 -0800 (PST)
+Return-Path: <bounces+848413-b928-michael=joinbox.com@sgmail.github.com>
+Received: from o3.sgmail.github.com (o3.sgmail.github.com. [192.254.112.98])
+        by mx.google.com with SMTP id pj6si9966143pbb.306.2014.02.24.00.07.15
+        for <michael@joinbox.com>;
+        Mon, 24 Feb 2014 00:07:16 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+848413-b928-michael=joinbox.com@sgmail.github.com designates 192.254.112.98 as permitted sender) client-ip=192.254.112.98;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+848413-b928-michael=joinbox.com@sgmail.github.com designates 192.254.112.98 as permitted sender) smtp.mail=bounces+848413-b928-michael=joinbox.com@sgmail.github.com;
+       dkim=pass header.i=@sgmail.github.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sgmail.github.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=dkBl6UmNATemyITJiG615R65WGo=; b=azqlT2xto5+PsH4Tzz
+	xbUWJlEV84Edl8PiBXibbyfKAbQg6mb3rDQkSpC11DcLU2WM6UVQi4w0GiTezRHz
+	cAzMfUstrsCwtci2kTiWp/dIAt9+X8Kq7+rNm5LWLlEhwmuHdZDjE1eQ+Cdq7cOF
+	OcHYpFfHhhUW1FrUpFc/4Hitc=
+Received: by mf199.sendgrid.net with SMTP id mf199.19580.530AFDB33
+        Mon, 24 Feb 2014 08:07:15 +0000 (UTC)
+Received: from github-smtp2a-ext-cp1-prd.iad.github.net (github-smtp2a-ext-cp1-prd.iad.github.net [192.30.253.16])
+	by ismtpd-029 (SG) with ESMTP id 14462ef0445.6b9.1c3656
+	for <michael@joinbox.com>; Mon, 24 Feb 2014 08:07:15 +0000 (GMT)
+Date: Mon, 24 Feb 2014 00:07:15 -0800
+From: GitHub <noreply@github.com>
+To: Michael van der Weg <michael@joinbox.com>
+Message-ID: <530afdb32d5ef_6a963fd524f472b4531dc@github-lowworker7-cp1-prd.iad.github.net.mail>
+Subject: GitHub explore today Feb 24
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_530afdb32c3e6_6a963fd524f472b4530b3";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Auto-Response-Suppress: All
+tracking: true
+categories: explore,explore-period-daily
+X-SG-EID: u3dxMfx0Id7c8KMnvzzn9BDHDytj4fMd+xKDQyGE4lFOLmjjqk92PSUo/1u1i26o+6Ph8kH2AArbJpEpAy+AbwZPCX+omPxN9LcaBnPmkxkJzuCCvtKwDkWderJ1jZ5cqUT9QJfREtr8nyqUhBKq+9ykeAVWSpVD1fqj1Iir+ZU=
+X-SG-ID: Bc4JW+xVSelhQo5SaiCrmaHirxKbrqGWb3uj2rssPD8lqALlVr++cctjM/jE32ZK
+
+----==_mimepart_530afdb32c3e6_6a963fd524f472b4530b3
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+Trending Repositories today Feb 23 - Feb 24
+-------------
+
+1. https://github.com/neovim/neovim C
+Vim&#39;s rebirth for the 21st century
+
+2. https://github.com/kbhomes/google-music-mac Objective-C
+Turn Google Music into a separate, beautiful application compatible with yo=
+ur Mac&#39;s media keys and including support for notifications.
+
+3. https://github.com/justinmeister/Mario-Level-1 Python
+A recreation of the first level of Super Mario Bros
+
+4. https://github.com/sharelatex/sharelatex CoffeeScript
+A web-based collaborative LaTeX editor
+
+5. https://github.com/kni-labs/rrssb CSS
+Ridiculously Responsive Social Sharing Buttons
+
+See all trending repositories https://github.com/trending
+
+Stars from GitHub Staff today Feb 23 - Feb 24
+-------------
+
+1. https://github.com/kbhomes/google-music-mac CSS
+Turn Google Music into a separate, beautiful application compatible with yo=
+ur Mac&#39;s media keys and including support for notifications.
+
+2. https://github.com/dinedal/textql Go
+Execute SQL against structured text like CSV or TSV
+
+3. https://github.com/geerlingguy/dotfiles VimL
+My configuration. Minimalist, but helps save a few thousand keystrokes a da=
+y.
+
+4. https://github.com/taijinlee/humanize JavaScript
+A JS library for adding a =E2=80=9Chuman touch=E2=80=9D to data.
+
+5. https://github.com/documentcloud/docsplit Ruby
+Break Apart Documents into Images, Text, Pages and PDFs
+
+
+Unsubscribe from these newsletters. https://github.com/mailers/unsubscribe?=
+token=3D603475__eyJzY29wZSI6Ik5ld3NsZXR0ZXJTdWJzY3JpcHRpb246dW5zdWJzY3JpYmU=
+iLCJleHBpcmVzIjoxNDI0NzY1MjM1LCJkYXRhIjp7Im5hbWUiOiJleHBsb3JlIn19--f0839549=
+aa4c2b9e97c4ce76d77a341bcf92f50f
+
+----==_mimepart_530afdb32c3e6_6a963fd524f472b4530b3
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html lang=3D"en">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Explore today on GitHub</title>
+    <style>
+      div.content a{
+        color: #4183C4 !important;
+        text-decoration: none;
+      }
+      div.content a:hover {
+        color: #4183C4 !important;
+        text-decoration: underline !important;
+      }
+
+
+      @media only screen and (max-device-width: 480px) {
+        h1[class=3D"heading"] {
+          font-size: 26px !important;
+        }
+        p[class=3D"subtext"] {
+          font-size: 13px !important;
+        }
+
+        div[class=3D"content"] {
+          width: 460px !important;
+        }
+        div[class=3D"heading-content"] {
+          width: 460px !important;
+        }
+
+        td[class=3D"stars-column"] {
+          width: 0% !important;
+          display: none !important;
+        }
+
+      }
+    </style>
+  </head>
+  <body bgcolor=3D"#fafafa" topmargin=3D"0" leftmargin=3D"0" marginheight=
+=3D"0" marginwidth=3D"0" style=3D"-webkit-font-smoothing: antialiased;width=
+:100% !important;background:#fafafa;-webkit-text-size-adjust:none;">
+    <div style=3D"padding: 10px;">
+
+      <div class=3D"heading-content" style=3D"padding-top: 20px; width: 550=
+px; margin: 0 auto;">
+  <table>
+    <tr>
+      <td style=3D"vertical-align: top; width: 70px;">
+        <img src=3D"https://github.global.ssl.fastly.net/images/email/explo=
+re/octocat.v2.png" width=3D"60" height=3D"60" />
+      </td>
+      <td>
+        <h1 class=3D"heading" style=3D"margin: 0; font-family:'Helvetica Ne=
+ue',Helvetica,Arial,sans-serif; font-size: 36px; letter-spacing: -1px; colo=
+r: #333; font-weight:normal;">
+          <a style=3D"margin: 0; font-family:'Helvetica Neue',Helvetica,Ari=
+al,sans-serif; font-size: 36px; letter-spacing: -1px; color: #333; font-wei=
+ght:normal;" href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocr=
+dKNILYalBsjidG1qJaowEHCnoUyY2e0RIyxowcai-2FzP2WvOoAxYO_HDu-2BON2WuckNVJ2U1s=
+3AlEAJuiA8UQBl3GGL5dVTfxjEztdm51ZCaALfgPMFVh2msSVq6imG2zfQ44hYbXpnSLoKCaGtq=
+2z5UT-2Fddh7Rv3f5TQfBTIlaaTjkybDsm031RgcblCipz17qKTQ-2B5XkBP7hkJEmZw1hZgqcA=
+XTxnZFCmijaOPxTVjHvOKV6fQoECBrQ6dkgL2EacwreK5CkmvztEQzE2sUWSYRTAEtEnGQMTI-2=
+FxVUP406IgmiSQnD4rz">
+            Explore today on GitHub
+          </a>
+        </h1>
+        <p class=3D"subtext" style=3D"margin: 0; font-family:'Helvetica Neu=
+e',Helvetica,Arial,sans-serif; font-size: 16px; font-weight: 300; color: #5=
+55;">
+          Here's what is happening on GitHub=20
+          today, <strong style=3D"color:#333">Feb 24</strong>.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+      <div class=3D"content" style=3D"margin: 20px auto !important; width: =
+550px; border: 1px solid #ddd !important; border-radius: 3px !important; bo=
+x-shadow: 0 1px 3px rgba(0,0,0,0.05) !important; background: #ffffff !impor=
+tant;">
+
+  <h2 style=3D"font-size:18px; line-height:24px; font-family:'Helvetica Neu=
+e',Helvetica,Arial,sans-serif; margin-top: 0; margin-bottom: 0; font-weight=
+: normal;">
+    <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNILY=
+alBhLwountNTN3xU-2FQq5jpFdS716E83nbXJZh0FMYDzHtlD6t0GABEswI2K3Ei8R5262p-2FS=
+XyZ-2F7581cSr5eiiGZhnnI1B6Gh3lEUcj5OCIbDkmgzBKEnimcsU-2FO0s74hneTyv46tOrbcg=
+kknKBXitzmc-3D_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjEztdm51ZCaALfgP=
+MFVh2maNALntUTRTubAizJd0LWix-2Blka-2BRHK-2B8qrG2Q5IaP0AlbGTvQs8jjnU9YgfJ-2F=
+I2rcETuBwSIrs2QfkRwNBVoPMZBuHeL5JjLnWZxs8aYPNUXfT-2B5Oz3v3arEEJYxZHgHF-2BJS=
+JPF2ZWTqIrvaYKQUFgVK2MQE1JPYkTzdwm4IaBVK7WXIsbFWeMmNmLqXTOdq" style=3D"colo=
+r: #333 !important; background-color: #f3f3f3; padding: 10px 20px; display:=
+ block; text-decoration:none;"><img src=3D"https://github.global.ssl.fastly=
+.net/images/email/explore/pulse.v2.png" width=3D"32" height=3D"32" style=3D=
+"vertical-align: middle; margin-right: 15px; margin-left: 5px;" />Trending =
+repositories <strong style=3D"font-weight:bold;">today</strong></a>
+  </h2>
+
+  <div style=3D"padding: 20px;">
+    <table style=3D"border-collapse: collapse; border-spacing: 0; width: 10=
+0%;">
+    <tr>
+  <td style=3D"width: 50px; vertical-align: top; border-bottom: 1px solid #=
+e9e9e9; padding-bottom: 15px; ">
+    <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNILY=
+alBjlyM29qL5fnTHO1r9QTJ-2BmdO7cGWgDN4oxb1oExsIZz402ENcuCttLQSugDdw5hUz3TBnP=
+mOoNP3LYBQLoDyFNqQ0WX-2BJZsyVJN8L8665GKsuhNhcl8ed-2FngdXs5sCq4yvFIJmxv408VP=
+y0uRXbxlI-3D_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjEztdm51ZCaALfgPMF=
+Vh2mAAt-2F6n2UM8sQZlFygfieRgfc3alO-2FS9A9c3ey4eJ1XMXo4ZI8dlXas3vBiGvhH4JU8d=
+cLT4K0BwtI25q8v5wwKWTNUlnzdmbcUZEBhj0p1rUOC3lS6z4dBK5SNq6eEvKE-2BWq4yMM6jVN=
+g0aQRtQqES6Y-2FBWKJ0M4-2FbAz2kM-2FMvmKb9HoEFlADtXYTJQjeLEr"><img src=3D"htt=
+ps://github.com/neovim.png" width=3D"40" height=3D"40" style=3D"border-radi=
+us: 3px;"/></a>
+  </td>
+  <td style=3D"vertical-align: top; border-bottom: 1px solid #e9e9e9; paddi=
+ng-bottom: 15px; word-break: break-all;">
+    <h3 style=3D"font-size: 16px; font-weight: bold; margin-top: 0; margin-=
+bottom: 3px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+      <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNI=
+LYalBjlyM29qL5fnTHO1r9QTJ-2BmIy93XG3Rb2GGYANj2jF-2BhDdQMDUbb-2BxH5Gkw5SyuTV=
+jZgNB-2F0Z2VjqipCJMa-2B4LQH2ByTptajSKZEHqDcP2Rms49cVEv2GB2PQmYs1PUH92dKEuu4=
+2eHPTvcsRdnProU-3D_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjEztdm51ZCaA=
+LfgPMFVh2mGcxZ1o5-2BIva-2FFXaNPqtdO1HtApuoPZl9b-2BzRlfiLoRFliz-2Fey-2BwkYDf=
+iPT5B9ZkA4SRHl-2FM-2Ft7Kc5BrjiMhcohN4paF1o379BciietJKJkt3TlA8ssq5NnmRjo8sdP=
+uMGQHi2BceSnmeGiXW2w9emQXhhi3PcLDItPJvZ-2BoTWE8FxuRsAeQ5SqSZ8rZiEaV4" style=
+=3D"color: #4183C4 !important; text-decoration:none;">neovim/neovim</a>
+    </h3>
+    <p class=3D"extra-stars-column" style=3D"font-style:italic;margin: 0; f=
+ont-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight: normal=
+; font-size: 12px; color: #444;">
+      <span style=3D"margin-right: 10px;">C</span>
+    </p>
+    <p style=3D"margin: 0; font-family:'Helvetica Neue',Helvetica,Arial,san=
+s-serif; font-size: 14px; font-weight: normal; color: #333; line-height: 20=
+px; word-break: normal;">Vim&#39;s rebirth for the 21st century</p>
+  </td>
+  <td class=3D"stars-column" style=3D"vertical-align: top; text-align: righ=
+t;border-bottom: 1px solid #e9e9e9; padding-bottom: 15px; " nowrap>
+    <span style=3D"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;=
+ font-weight: bold; font-size: 16px; margin-left: 10px; color: #333;"><img =
+src=3D"https://github.global.ssl.fastly.net/images/email/explore/star.v2.pn=
+g" width=3D"16" height=3D"16" style=3D"vertical-align: -2px; margin-right: =
+3px;" />1,204</span>
+  </td>
+</tr>
+
+    <tr>
+  <td style=3D"width: 50px; vertical-align: top; border-bottom: 1px solid #=
+e9e9e9; padding-bottom: 15px; padding-top: 15px;">
+    <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNILY=
+alBr9fsN92JKEPq3B06XhVXGx62UUTZVn34JvQWWqmktfPiutPTDwuflkBReGk-2FTA8V4CH59E=
+AxFLBL76ybR5TCP3cFHwwBll26ZK-2BZ0pPL532oHxnARZn291dp5hO6nJr5dmvGRauFbHJMzoe=
+l5-2F2Tw8-3D_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjEztdm51ZCaALfgPMF=
+Vh2m3JZpBRhsYZbA7aj-2BIu60A-2FysaZomnQo5Z8yfeTa4ZShuGR9-2BriWMcN9mCHawg08PY=
+nTUPZaKnxpUBtM3QbQDcw0HeilyENkkhT-2BV0aEJ5YTjP61iInfPb86wzajurHN3cQIzKQFlTL=
+YmEhV0efhMLk-2B54o4J1rGktoAc1V1b93a5fnjiBu7Ilpi4wblPytXQ"><img src=3D"https=
+://github.com/kbhomes.png" width=3D"40" height=3D"40" style=3D"border-radiu=
+s: 3px;"/></a>
+  </td>
+  <td style=3D"vertical-align: top; border-bottom: 1px solid #e9e9e9; paddi=
+ng-bottom: 15px; padding-top: 15px;word-break: break-all;">
+    <h3 style=3D"font-size: 16px; font-weight: bold; margin-top: 0; margin-=
+bottom: 3px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+      <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNI=
+LYalBr9fsN92JKEPq3B06XhVXGyxIBOCM-2B6YbwJq6tYc0HF3r6JSeH9rOMW8yBtTbAcVR49SP=
+kTHBna6Y1B-2F5LGjp3pmy-2FtxpBK8A6kMxpHj-2FCr5uxsRJr-2BTFMjE6-2B9Aeyob0aUH8z=
+L3GDx0sJyqaYD-2FXje82zE5WbjG-2FUrhgUZ0OFP6_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQ=
+Bl3GGL5dVTfxjEztdm51ZCaALfgPMFVh2mFygQ4pJU8ASLc3rtUOmyl-2Bg0x-2Bix-2F-2Fwrr=
+vj4b-2FcS6YpzTuRLtzu24k4Gf22o5ulVhRkOr8eT-2FW2OIgf9wrG7VWu4hLJ7vyQQIqYrFh2c=
+-2B7nWju7xaRtT2G0hvQSGRURX4HYUVIRhcyWukkc18YTjzu9xeK9SvqycjjSxqss8Pfn11ZD20=
+stSQkO-2BRnb0oJJA" style=3D"color: #4183C4 !important; text-decoration:none=
+;">kbhomes/google-music-mac</a>
+    </h3>
+    <p class=3D"extra-stars-column" style=3D"font-style:italic;margin: 0; f=
+ont-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight: normal=
+; font-size: 12px; color: #444;">
+      <span style=3D"margin-right: 10px;">Objective-C</span>
+    </p>
+    <p style=3D"margin: 0; font-family:'Helvetica Neue',Helvetica,Arial,san=
+s-serif; font-size: 14px; font-weight: normal; color: #333; line-height: 20=
+px; word-break: normal;">Turn Google Music into a separate, beautiful appli=
+cation compatible with your Mac&#39;s media keys and including support for =
+notifications.</p>
+  </td>
+  <td class=3D"stars-column" style=3D"vertical-align: top; text-align: righ=
+t;border-bottom: 1px solid #e9e9e9; padding-bottom: 15px; padding-top: 15px=
+;" nowrap>
+    <span style=3D"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;=
+ font-weight: bold; font-size: 16px; margin-left: 10px; color: #333;"><img =
+src=3D"https://github.global.ssl.fastly.net/images/email/explore/star.v2.pn=
+g" width=3D"16" height=3D"16" style=3D"vertical-align: -2px; margin-right: =
+3px;" />306</span>
+  </td>
+</tr>
+
+    <tr>
+  <td style=3D"width: 50px; vertical-align: top; border-bottom: 1px solid #=
+e9e9e9; padding-bottom: 15px; padding-top: 15px;">
+    <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNILY=
+alBr1H4bpdDClEskvVdwIlCb6cmi-2FBXhdpSumP7o20pEMp-2FxReHjCfhtPzpU4N4XKOQE07g=
+LVtnrJsLR46oX5MuYCFBxZjZBg9hPV7tBaUfO-2Ffvl-2FPBNeDxQi-2F-2BocP8zK2hvpsD-2B=
+0UrK7eV42kQXOMxzM-3D_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjEztdm51ZC=
+aALfgPMFVh2md6V3vZUSHgJwginfbHQ9XmNj-2FVuThSsdM4sRnqLtYQAGzFob9WuNBc6MNEFC2=
+jFEZBljyyrOqR3SIxgggrLRAf6e8E2XWSTxU0r86wHriDSNUxFMMTxFVZ-2BzdgD4fRX1OkyJ2w=
+0wvEqq7RrQKe8-2FDbjyUA1dmYB81AgnpQ-2BOrnu1fUHrXymLwGpKvGtZtunU"><img src=3D=
+"https://github.com/justinmeister.png" width=3D"40" height=3D"40" style=3D"=
+border-radius: 3px;"/></a>
+  </td>
+  <td style=3D"vertical-align: top; border-bottom: 1px solid #e9e9e9; paddi=
+ng-bottom: 15px; padding-top: 15px;word-break: break-all;">
+    <h3 style=3D"font-size: 16px; font-weight: bold; margin-top: 0; margin-=
+bottom: 3px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+      <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNI=
+LYalBr1H4bpdDClEskvVdwIlCb6FILfKZydztTTm5e6V-2BRi5VE2OEgmNL4fYRYfd0-2BKc-2B=
+L-2BPypjXNxQkk4QxXeMZHAsMQabN2cKD0vt10KJtmFGIGB9gST-2FGnShfeZ41LvNG5I-2FStX=
+hFQzjrxO4cvz1-2FR8V-2FmdXXpREg-2Fa2yKEHl-2BLb6_HDu-2BON2WuckNVJ2U1s3AlEAJui=
+A8UQBl3GGL5dVTfxjEztdm51ZCaALfgPMFVh2mqqDizFClppobuuczWOj64qmEzgQCTNZGBojlT=
+CdKCxHKE-2FVnRG-2F8bpaE1k5A7Gp-2Bp3yo8Raqygt1SbbioPO77bT-2BCHbo51M2uA7neGw7=
+MYAmdYaXVID-2F6pVx2eD-2FZHzqHsOeFAoySmcgK4YG2abmVs8H95kSx658OkTqFaO0LMAunSA=
+yTYEUu3scZRVPzhfj" style=3D"color: #4183C4 !important; text-decoration:none=
+;">justinmeister/Mario-Level-1</a>
+    </h3>
+    <p class=3D"extra-stars-column" style=3D"font-style:italic;margin: 0; f=
+ont-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight: normal=
+; font-size: 12px; color: #444;">
+      <span style=3D"margin-right: 10px;">Python</span>
+    </p>
+    <p style=3D"margin: 0; font-family:'Helvetica Neue',Helvetica,Arial,san=
+s-serif; font-size: 14px; font-weight: normal; color: #333; line-height: 20=
+px; word-break: normal;">A recreation of the first level of Super Mario Bro=
+s</p>
+  </td>
+  <td class=3D"stars-column" style=3D"vertical-align: top; text-align: righ=
+t;border-bottom: 1px solid #e9e9e9; padding-bottom: 15px; padding-top: 15px=
+;" nowrap>
+    <span style=3D"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;=
+ font-weight: bold; font-size: 16px; margin-left: 10px; color: #333;"><img =
+src=3D"https://github.global.ssl.fastly.net/images/email/explore/star.v2.pn=
+g" width=3D"16" height=3D"16" style=3D"vertical-align: -2px; margin-right: =
+3px;" />264</span>
+  </td>
+</tr>
+
+    <tr>
+  <td style=3D"width: 50px; vertical-align: top; border-bottom: 1px solid #=
+e9e9e9; padding-bottom: 15px; padding-top: 15px;">
+    <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNILY=
+alBnpsNiTes64fmfuypq1Aiiohgy3CUmbL67PWmDtMTLW2AfpkCyDEqz19SO9jEXePO3IbCTAUP=
+pwblZ4SKOqIAMcM7eWSV5ono2V3OFOv5kXAPmfKsNTkZieNJkEVHBevu6eOPnSiWG9l3nEbCqsK=
+ZI8-3D_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjEztdm51ZCaALfgPMFVh2mud=
+3J-2BT9PjZpgcWFq62h1EEMWQF8Ep-2BxgvXukRUwQBUyMerRgnThlWfinhq5UclF21312sogfR=
+X6YM1d17KA3XccxIsPH9WwyZS39zbATnxT7-2FSPLKUnqV7-2Fd-2BVGn7h7GEPLY1wqg2kVAtr=
+L1QGrtBZSrre0skO3KaUwoGh-2Bl4D-2BLhefxlQ9TGqWBRqXO8-2BSF"><img src=3D"https=
+://github.com/sharelatex.png" width=3D"40" height=3D"40" style=3D"border-ra=
+dius: 3px;"/></a>
+  </td>
+  <td style=3D"vertical-align: top; border-bottom: 1px solid #e9e9e9; paddi=
+ng-bottom: 15px; padding-top: 15px;word-break: break-all;">
+    <h3 style=3D"font-size: 16px; font-weight: bold; margin-top: 0; margin-=
+bottom: 3px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+      <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNI=
+LYalBnpsNiTes64fmfuypq1Aiio3LkA7pBNkFR3GYgolj-2BTyl5ITek03HjfmPcXAOPVXBza1O=
+poUf0hwKrbfHOWwPI9iN5qhvIo6FVnA7T7JwNRQExDYw7zde4GAOkMdzMvhJ022CgmFVbYzfZ-2=
+Fe5k6ssQJBkJyrs3NSRVdQmtP2lo1u_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfx=
+jEztdm51ZCaALfgPMFVh2mMLvzNLCvtecupHmQMTeF613qcnHZa-2FIUCFA01grkfDsdvYYR-2B=
+A1pKdAYg9vtbvwLZhATK1-2F0FH0iFBpzDF8IjmpWswFQUCjGaEp15bcANHLaOMoAQN5gDbX-2B=
+6LNl3BzCNYvDOrpNGQqC4Bsqv-2FzQg7bkPqeLMGRzua3H09UEqu4amFTvRfQqqpS5IaYsVmXF"=
+ style=3D"color: #4183C4 !important; text-decoration:none;">sharelatex/shar=
+elatex</a>
+    </h3>
+    <p class=3D"extra-stars-column" style=3D"font-style:italic;margin: 0; f=
+ont-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight: normal=
+; font-size: 12px; color: #444;">
+      <span style=3D"margin-right: 10px;">CoffeeScript</span>
+    </p>
+    <p style=3D"margin: 0; font-family:'Helvetica Neue',Helvetica,Arial,san=
+s-serif; font-size: 14px; font-weight: normal; color: #333; line-height: 20=
+px; word-break: normal;">A web-based collaborative LaTeX editor</p>
+  </td>
+  <td class=3D"stars-column" style=3D"vertical-align: top; text-align: righ=
+t;border-bottom: 1px solid #e9e9e9; padding-bottom: 15px; padding-top: 15px=
+;" nowrap>
+    <span style=3D"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;=
+ font-weight: bold; font-size: 16px; margin-left: 10px; color: #333;"><img =
+src=3D"https://github.global.ssl.fastly.net/images/email/explore/star.v2.pn=
+g" width=3D"16" height=3D"16" style=3D"vertical-align: -2px; margin-right: =
+3px;" />218</span>
+  </td>
+</tr>
+
+    <tr>
+  <td style=3D"width: 50px; vertical-align: top;  padding-top: 15px;">
+    <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNILY=
+alBnJE1cFEfZpaAdvguWXmq8HC0h-2FI4jNlniEPlPVAJERr7UHVYn0jNSKw8ppllJI5vSB1L76=
+lncb-2FKbuKtjos2DesyKOYKoPP3ufRh2zLqFunTV3izhHUwdIZTrKL-2BsJ3NI3H8D9-2F7BLy=
+J0jj-2BXcthmw-3D_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjEztdm51ZCaALf=
+gPMFVh2mUMQBf9jvS3VNbZV9XmnWKSQcTRgYf0XddUIJkQ2xZ8kJQ7LeAR30msX0cKUMtJ8pn7e=
+f-2FDal0rdkntfyoFvk-2F2J1fGoVgHuTVvsKtI7wxishT2uHxFuqttmE4bxqFoh-2F8KaprdXz=
+OmWPbdhRC5-2FVkQ5E1-2FrXsKFkcF-2F6-2BJ2ARjS3hXpxfRnYuRehhS0bMafSkgayCA-2BS2=
+uhLDVwwdN7JOQ-3D-3D"><img src=3D"https://github.com/kni-labs.png" width=3D"=
+40" height=3D"40" style=3D"border-radius: 3px;"/></a>
+  </td>
+  <td style=3D"vertical-align: top;  padding-top: 15px;word-break: break-al=
+l;">
+    <h3 style=3D"font-size: 16px; font-weight: bold; margin-top: 0; margin-=
+bottom: 3px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+      <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNI=
+LYalBnJE1cFEfZpaAdvguWXmq8H-2BMO4YjADbKUlJxXm5JGhSVLNAhgoKHC4J1KQlXJu553N2w=
+Vf7AVFYXk1I0r8GiPBeghFJBm3vNBvgAobFb7vQ4AgNhX7BcRV0wc-2FpMEG3OYWleF4FLNjGsV=
+TXDI8-2BQDhhnMd6u0Y6ctrKrqLyOiao_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVT=
+fxjEztdm51ZCaALfgPMFVh2mrvVsnBzcBYvBV1oa0becsQWr-2BskMoW22ivkd-2FRsl3jWKMhZ=
+l2AIroJU3RHToKEtPD1GLdiWl-2BXN4tNXiorXbxp8oNFJth0lYpWKL3Dw-2FiUOaU2WEmOKWut=
+MWkOsqj-2BDdFxTmmf8DmRBi1pIAtOhix5SqS-2Fsq1Cpit-2BvMTSkMD5Ym5aAJk47ZyRfknCL=
+G2s1NGN-2FgLRP11Z8leuR34I2nHg-3D-3D" style=3D"color: #4183C4 !important; te=
+xt-decoration:none;">kni-labs/rrssb</a>
+    </h3>
+    <p class=3D"extra-stars-column" style=3D"font-style:italic;margin: 0; f=
+ont-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight: normal=
+; font-size: 12px; color: #444;">
+      <span style=3D"margin-right: 10px;">CSS</span>
+    </p>
+    <p style=3D"margin: 0; font-family:'Helvetica Neue',Helvetica,Arial,san=
+s-serif; font-size: 14px; font-weight: normal; color: #333; line-height: 20=
+px; word-break: normal;">Ridiculously Responsive Social Sharing Buttons</p>
+  </td>
+  <td class=3D"stars-column" style=3D"vertical-align: top; text-align: righ=
+t; padding-top: 15px;" nowrap>
+    <span style=3D"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;=
+ font-weight: bold; font-size: 16px; margin-left: 10px; color: #333;"><img =
+src=3D"https://github.global.ssl.fastly.net/images/email/explore/star.v2.pn=
+g" width=3D"16" height=3D"16" style=3D"vertical-align: -2px; margin-right: =
+3px;" />102</span>
+  </td>
+</tr>
+
+    </table>
+  </div>
+
+</div>
+
+
+        <div class=3D"content" style=3D"margin: 20px auto !important; width=
+: 550px; border: 1px solid #ddd !important; border-radius: 3px !important; =
+box-shadow: 0 1px 3px rgba(0,0,0,0.05) !important; background: #ffffff !imp=
+ortant;">
+
+  <h2 style=3D"font-size:18px; line-height:24px; font-family:'Helvetica Neu=
+e',Helvetica,Arial,sans-serif; margin-top: 0; margin-bottom: 0; font-weight=
+: normal;">
+    <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNILY=
+alBsjidG1qJaowEHCnoUyY2e0dYmK0ittbMsBlSCWagH51D40CGU78zBkndLR7nZpHX9nNkufXk=
+OA9u1xvorUBEzwf5yMl-2B10TCUOIXY6g9683i-2FqTtJrZmQ7XyI4sLT2G-2BxMkmmFCuogzZ0=
+KWdXKhAAo9bFa7lYZF0I3lpejwTAes_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfx=
+jEztdm51ZCaALfgPMFVh2mddRf0ywtCauWrKMP55DTLuSRoR-2BMwzMMFE-2Fq0oaZM57Ixpo-2=
+Fwb0g-2B-2BIO0fskE6GLNHXEI-2FGui4SwqKQU-2Fokkkp6pyZZOFg8lv7DHBSzaudx-2BM8wd=
+Gghrj8tMg5pQD7HUpsLbrNX0WCWHSnfmuXe5o6edY7H-2BEFDT99SIH3rdWud3g1XG0cwWif2pH=
+6eZblRTsP4FyipX279D68XdO3u2Sw-3D-3D" style=3D"color: #333 !important; backg=
+round-color: #f3f3f3; padding: 10px 20px; display: block; text-decoration:n=
+one;"><img src=3D"https://github.global.ssl.fastly.net/images/email/explore=
+/octocat.v2.png" width=3D"32" height=3D"32" style=3D"vertical-align: middle=
+; margin-right: 15px; margin-left: 5px;" />Starred by GitHub staff <strong =
+style=3D"font-weight:bold;">today</strong></a>
+  </h2>
+
+  <div style=3D"padding: 20px;">
+    <table style=3D"border-collapse: collapse; border-spacing: 0; width: 10=
+0%;">
+    <tr>
+  <td style=3D"width: 50px; vertical-align: top; border-bottom: 1px solid #=
+e9e9e9; padding-bottom: 15px; ">
+    <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNILY=
+alBr9fsN92JKEPq3B06XhVXGx62UUTZVn34JvQWWqmktfPiutPTDwuflkBReGk-2FTA8V4CH59E=
+AxFLBL76ybR5TCP3cFHwwBll26ZK-2BZ0pPL532oHxnARZn291dp5hO6nJr5dmvGRauFbHJMzoe=
+l5-2F2Tw8-3D_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjEztdm51ZCaALfgPMF=
+Vh2mkIPZF6Ay6HNVOUAMMMqlT2T-2F2HhYbeDOcqTYxNOUG0Op2fSqIY6fYC6R9dNEsgITe94up=
+kFyfEFmKXxcu33wW-2FXQROCkIoBO-2FbjFJkgNLAZ-2F46etCHtUsvXtc8-2FYgAlBrMmPt7ew=
+EF-2BtCPnlPJSEvcYRSUilWzPZFZJt5iAoGsevU-2FX5WeT-2FHoiAQpgtl2Jn8YOrV26mJS-2F=
+r0yjN9UjouA-3D-3D"><img src=3D"https://github.com/kbhomes.png" width=3D"40"=
+ height=3D"40" style=3D"border-radius: 3px;"/></a>
+  </td>
+  <td style=3D"vertical-align: top; border-bottom: 1px solid #e9e9e9; paddi=
+ng-bottom: 15px; word-break: break-all;">
+    <h3 style=3D"font-size: 16px; font-weight: bold; margin-top: 0; margin-=
+bottom: 3px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+      <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNI=
+LYalBr9fsN92JKEPq3B06XhVXGyxIBOCM-2B6YbwJq6tYc0HF3r6JSeH9rOMW8yBtTbAcVR49SP=
+kTHBna6Y1B-2F5LGjp3pmy-2FtxpBK8A6kMxpHj-2FCr5uxsRJr-2BTFMjE6-2B9Aeyob0aUH8z=
+L3GDx0sJyqaYD-2FXje82zE5WbjG-2FUrhgUZ0OFP6_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQ=
+Bl3GGL5dVTfxjEztdm51ZCaALfgPMFVh2mRuZZ0oKbszjz3V3hxQzjLj0cGXSPffLc1EEof0dWd=
+pV8pTIoPqmM3eCi-2F4TzBE1dt0wlMi3MUFxBs4Sexy8QPkMsZcryRZkBn-2BICUlbBEwpbXSpu=
+Vpi3ZFepECxzZYmivcZBNr-2BcwhbdoNoqrEjfJLJXGxHsPVdrTVeGXbIbT7J7aFHE34AzBPlUg=
+IsvXquP6dHdqqYbmedQrryvZGr-2Fmg-3D-3D" style=3D"color: #4183C4 !important; =
+text-decoration:none;">kbhomes/google-music-mac</a>
+    </h3>
+    <p class=3D"extra-stars-column" style=3D"font-style:italic;margin: 0; f=
+ont-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight: normal=
+; font-size: 12px; color: #444;">
+      <span style=3D"margin-right: 10px;">CSS</span>
+    </p>
+    <p style=3D"margin: 0; font-family:'Helvetica Neue',Helvetica,Arial,san=
+s-serif; font-size: 14px; font-weight: normal; color: #333; line-height: 20=
+px; word-break: normal;">Turn Google Music into a separate, beautiful appli=
+cation compatible with your Mac&#39;s media keys and including support for =
+notifications.</p>
+  </td>
+  <td class=3D"stars-column" style=3D"vertical-align: top; text-align: righ=
+t;border-bottom: 1px solid #e9e9e9; padding-bottom: 15px; " nowrap>
+    <span style=3D"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;=
+ font-weight: bold; font-size: 16px; margin-left: 10px; color: #333;"><img =
+src=3D"https://github.global.ssl.fastly.net/images/email/explore/star.v2.pn=
+g" width=3D"16" height=3D"16" style=3D"vertical-align: -2px; margin-right: =
+3px;" />1</span>
+  </td>
+</tr>
+
+    <tr>
+  <td style=3D"width: 50px; vertical-align: top; border-bottom: 1px solid #=
+e9e9e9; padding-bottom: 15px; padding-top: 15px;">
+    <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNILY=
+alBsq8DNux22QQk9e1kdg0CyuUj-2FyRxo-2FNlYgx6-2BJD9OYddbrOguzikAQWuKsUbeXFFQ1=
+kbQ0x3xUMwDEr1O0EZmgic21jWEtfMtceZhZOSuNgnOCmYMkn9OX-2B4iwF4YpwuLP09dsmFXdQ=
+eYV8Biue-2BEg-3D_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjEztdm51ZCaALf=
+gPMFVh2mbW-2F-2BRekxQzbK3NsiiPwMQrlGxiHjH-2B5tcYiAPiC-2BR-2F0wLBXhgJfhIhxx7=
+pCFcxGXy4oClxVpph6lRUf38wPCGlTv7oVRggJUVK3cTalyOFmGHJAUWJefJCpgeXG5IOtAWcya=
+voyOS5CNNZHjBhR-2F8GvpAITSpGlmmB3vu-2BpS5BbbF6SpQDyV3IAVLHLpuswc6dUcdupovvR=
+Yc7upU9ikCg-3D-3D"><img src=3D"https://github.com/dinedal.png" width=3D"40"=
+ height=3D"40" style=3D"border-radius: 3px;"/></a>
+  </td>
+  <td style=3D"vertical-align: top; border-bottom: 1px solid #e9e9e9; paddi=
+ng-bottom: 15px; padding-top: 15px;word-break: break-all;">
+    <h3 style=3D"font-size: 16px; font-weight: bold; margin-top: 0; margin-=
+bottom: 3px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+      <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNI=
+LYalBsq8DNux22QQk9e1kdg0Cyt6j62DOa83Q5bNGWQW7HxsKar-2F-2FmGDWlY6u0SaRTzZU-2=
+B2Q57RD31SqfzbXuiCQxpxvkuL49JK2BnBeEqnmBRG73Ye1D2qmeQeEXvvCdy-2BTXSi3Ruorpi=
+zg4FMJjSm4zjsvFQrlukn6T45FSPc6mmK9_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5d=
+VTfxjEztdm51ZCaALfgPMFVh2mDtbifL75I6R2un-2F9L-2F-2Bb56sGpoj6dvEkoHjUKkPLL8G=
+LkQpEtGOfTfW3maxfk-2B3ZuTl6Xh8AxpihQAmqyfitxlbfg8kNusmEBReJKHxSYlEsQKezJPE7=
+1-2FrXJC7hFWpAoYDydR-2FNnFuockXDJKQdIUXyzKDbwl6dncFkJGAZMGlssWIbChFWfrhXB4k=
+vIPzSUJ3AbjEEPwawAw-2BLsdmehw-3D-3D" style=3D"color: #4183C4 !important; te=
+xt-decoration:none;">dinedal/textql</a>
+    </h3>
+    <p class=3D"extra-stars-column" style=3D"font-style:italic;margin: 0; f=
+ont-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight: normal=
+; font-size: 12px; color: #444;">
+      <span style=3D"margin-right: 10px;">Go</span>
+    </p>
+    <p style=3D"margin: 0; font-family:'Helvetica Neue',Helvetica,Arial,san=
+s-serif; font-size: 14px; font-weight: normal; color: #333; line-height: 20=
+px; word-break: normal;">Execute SQL against structured text like CSV or TS=
+V</p>
+  </td>
+  <td class=3D"stars-column" style=3D"vertical-align: top; text-align: righ=
+t;border-bottom: 1px solid #e9e9e9; padding-bottom: 15px; padding-top: 15px=
+;" nowrap>
+    <span style=3D"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;=
+ font-weight: bold; font-size: 16px; margin-left: 10px; color: #333;"><img =
+src=3D"https://github.global.ssl.fastly.net/images/email/explore/star.v2.pn=
+g" width=3D"16" height=3D"16" style=3D"vertical-align: -2px; margin-right: =
+3px;" />1</span>
+  </td>
+</tr>
+
+    <tr>
+  <td style=3D"width: 50px; vertical-align: top; border-bottom: 1px solid #=
+e9e9e9; padding-bottom: 15px; padding-top: 15px;">
+    <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNILY=
+alBqHh08wg3vtp8LOEgYFcx0voXcZ-2FDZ4nGPI8iJ4ibXye-2F7oxzSghao0mbyEdVYquXFj-2=
+FVp2cCWvgbTtJkib-2FigPlHaxuvKmb90MqAepbBz4XVKSsscFJ3TEtJfARObSlBeKbQwdHiMIN=
+obr5TzPbWEw-3D_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjEztdm51ZCaALfgP=
+MFVh2myDkUfDZR3qU75FTnojefGPxcoOGIeF-2Bx5RqgOgd6R7-2Fm1F4ZORHy0p8Z-2BZ27-2B=
+-2BSu3t1mo29PV2DofFZK7d41RwA88Jo9DG1yKIvq5T1Rrbxd4kHJ20Qy9rgEqwyV-2BvUgaFfC=
+qx7QptlD-2Br-2BJ1ce1Lwiny-2Bc-2BXbregW3j8ttPsJrnb2kFfp-2B9bFHZpJmma8vq9z75a=
+kzyrxU8VqDU45VmCA-3D-3D"><img src=3D"https://github.com/geerlingguy.png" wi=
+dth=3D"40" height=3D"40" style=3D"border-radius: 3px;"/></a>
+  </td>
+  <td style=3D"vertical-align: top; border-bottom: 1px solid #e9e9e9; paddi=
+ng-bottom: 15px; padding-top: 15px;word-break: break-all;">
+    <h3 style=3D"font-size: 16px; font-weight: bold; margin-top: 0; margin-=
+bottom: 3px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+      <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNI=
+LYalBqHh08wg3vtp8LOEgYFcx0tVcnJHGdBy7mtBLnOjPlVobEzkhuEIhMzy73sdG3J5rZP-2BN=
+3CxUetAiY-2F97H552pGe3EZxYODQo2h4gDjGVjAwTQjn06sj499lytn-2FgUtGvs-2Bq313gvk=
+K2YjXp8ar2Tggya19huTOhnhSE8NxZQY0z_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5d=
+VTfxjEztdm51ZCaALfgPMFVh2m0HbjU5Pq44smTSHZ8d-2B43sKRF4TLd6mFpaigJThs5I-2FBD=
+prTKu8hah4DT-2Fnnwk8rtjgKHZFTMt9xrpuznnyfgo4Eu5mHeOMchMc17RUZn8SMMBRWLPeSvm=
+kzccWtpCbTe-2F7eNvwM93-2B-2BOjlBxlBMZAK-2FXGWJGKIaLGaMALNTBnkcgztE1n-2FQYHO=
+ksOXK6Q5P9-2Bz4RyEMFNMJ5RnbTVhWgQ-3D-3D" style=3D"color: #4183C4 !important=
+; text-decoration:none;">geerlingguy/dotfiles</a>
+    </h3>
+    <p class=3D"extra-stars-column" style=3D"font-style:italic;margin: 0; f=
+ont-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight: normal=
+; font-size: 12px; color: #444;">
+      <span style=3D"margin-right: 10px;">VimL</span>
+    </p>
+    <p style=3D"margin: 0; font-family:'Helvetica Neue',Helvetica,Arial,san=
+s-serif; font-size: 14px; font-weight: normal; color: #333; line-height: 20=
+px; word-break: normal;">My configuration. Minimalist, but helps save a few=
+ thousand keystrokes a day.</p>
+  </td>
+  <td class=3D"stars-column" style=3D"vertical-align: top; text-align: righ=
+t;border-bottom: 1px solid #e9e9e9; padding-bottom: 15px; padding-top: 15px=
+;" nowrap>
+    <span style=3D"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;=
+ font-weight: bold; font-size: 16px; margin-left: 10px; color: #333;"><img =
+src=3D"https://github.global.ssl.fastly.net/images/email/explore/star.v2.pn=
+g" width=3D"16" height=3D"16" style=3D"vertical-align: -2px; margin-right: =
+3px;" />1</span>
+  </td>
+</tr>
+
+    <tr>
+  <td style=3D"width: 50px; vertical-align: top; border-bottom: 1px solid #=
+e9e9e9; padding-bottom: 15px; padding-top: 15px;">
+    <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNILY=
+alBlq54iaHg6tcj2aNND3OqZlCdGAjkZ9aB-2Bmtq2YRgBw59Uy2QwqHAvhnsgNgqLBhJH3RH84=
+VpwjhgYD1MX4J3Sl-2BH4tiwqclwEJYWwsU8LLx9GIgkpPTmugSAVQo9l5YuQ6Gecxq-2FbZZGY=
+y2me4NNeM-3D_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjEztdm51ZCaALfgPMF=
+Vh2mC4xkpeD9hc9xvHCtouUhpnXumr3eEH25Zz-2BEpa9Ry9sYw-2FWexJ7D9LD8inKlh5wuKtO=
+xDKHNfqk9IitUaRFSimY-2FFzd-2BrBbwkVaVeXvUO-2BY1rLtB68bfi48q32oWItZbbDoUraCG=
+e1IsVxXkigCkko7qa2-2F82KgTvs-2FO2P9DLPKNz-2Fg-2B2i0TK7L-2Bw18XSreRBa2lsOJj1=
+sgb2vDtEtch9Q-3D-3D"><img src=3D"https://github.com/taijinlee.png" width=3D=
+"40" height=3D"40" style=3D"border-radius: 3px;"/></a>
+  </td>
+  <td style=3D"vertical-align: top; border-bottom: 1px solid #e9e9e9; paddi=
+ng-bottom: 15px; padding-top: 15px;word-break: break-all;">
+    <h3 style=3D"font-size: 16px; font-weight: bold; margin-top: 0; margin-=
+bottom: 3px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+      <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNI=
+LYalBlq54iaHg6tcj2aNND3OqZnntWE8TGWGGyy7qQMfkwI6dBcxLWGPFr2becqaMjU0OKp7UyM=
+sZfQqueys0jNDL27dFzM0ADyq8DD0TsSRWaBmbXcbnFFNsXyEEDyvu8QiPfNTrHUNGC-2BLufII=
+mJHsQPpFoQnnRNhtaiNaHdz4hCIu_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjE=
+ztdm51ZCaALfgPMFVh2mn3NRJGb-2B6KJ0dO5XLS0OvXmZJ6r1m-2FrNNpoHLlxQrHaNNLINm5m=
+9x9aT73aax-2BQL1BXZLzXbziMYdc7DZusPKA-2BBTXZn8GuKIw0Tzh4z8c87s5QKpA2tvpGqy-=
+2FhWtlg9g05DxYYXbMypxSnuhehO6x0po2UEKVoyOXop8gkp7rVND5Nk0TDxWbB9s0ggV2K0Gfq=
+caJiddt5leUv-2FrHge7w-3D-3D" style=3D"color: #4183C4 !important; text-decor=
+ation:none;">taijinlee/humanize</a>
+    </h3>
+    <p class=3D"extra-stars-column" style=3D"font-style:italic;margin: 0; f=
+ont-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight: normal=
+; font-size: 12px; color: #444;">
+      <span style=3D"margin-right: 10px;">JavaScript</span>
+    </p>
+    <p style=3D"margin: 0; font-family:'Helvetica Neue',Helvetica,Arial,san=
+s-serif; font-size: 14px; font-weight: normal; color: #333; line-height: 20=
+px; word-break: normal;">A JS library for adding a =E2=80=9Chuman touch=E2=
+=80=9D to data.</p>
+  </td>
+  <td class=3D"stars-column" style=3D"vertical-align: top; text-align: righ=
+t;border-bottom: 1px solid #e9e9e9; padding-bottom: 15px; padding-top: 15px=
+;" nowrap>
+    <span style=3D"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;=
+ font-weight: bold; font-size: 16px; margin-left: 10px; color: #333;"><img =
+src=3D"https://github.global.ssl.fastly.net/images/email/explore/star.v2.pn=
+g" width=3D"16" height=3D"16" style=3D"vertical-align: -2px; margin-right: =
+3px;" />1</span>
+  </td>
+</tr>
+
+    <tr>
+  <td style=3D"width: 50px; vertical-align: top;  padding-top: 15px;">
+    <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNILY=
+alBr2JOKz0710MEDvaAAiPL03-2Fxff81Tyt8BMlg-2Bt9EZ9fPgKz67I865gQHya-2BBwVrzOI=
+EiJD7SPy-2FGaUxoIlFYz5ap62U-2Bo1Mi7GeBHuyVquNuyXoO0ndPfbfG48koO6mpzgeJ7j17i=
+KwZJ6kiUdXBfE-3D_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjEztdm51ZCaALf=
+gPMFVh2m-2FGNeUmdrv-2BE9ugd4-2FNZBvigmbF0EbNlrNui1YBTrhv6jRyOevtfVyAZVOPa-2=
+FT-2F-2B1kxi1s-2BU6Tt1nEbzw-2FtHpUHpzl8mXaWswV9MyanA7voJAppJynxMaL4gZN7K-2F=
+wNRxbSHsbFa42fiUlpXCEle-2FHam-2FIz8Ltgkt35XoMadEtlr7lCT4KlpeF-2B56TOxMH9whI=
+RS-2BB2UEbEm3Hez-2BxCRzTw-3D-3D"><img src=3D"https://github.com/documentclo=
+ud.png" width=3D"40" height=3D"40" style=3D"border-radius: 3px;"/></a>
+  </td>
+  <td style=3D"vertical-align: top;  padding-top: 15px;word-break: break-al=
+l;">
+    <h3 style=3D"font-size: 16px; font-weight: bold; margin-top: 0; margin-=
+bottom: 3px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+      <a href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yocrdKNI=
+LYalBr2JOKz0710MEDvaAAiPL02yIHZv8-2F8cxDKoynbmJhmMMrHXvSc6-2FqoyYtxHLBi31lm=
+3dt5SBoyyDcDgXwfcGumJsVYm42PPDN5XjaJNRAP-2ByFizEdRTOWulpp1kBC7rVBTEIi2C5Sug=
+FVuNcPK2wbb-2F734Rj9sBscr9rGjsHbFq_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5d=
+VTfxjEztdm51ZCaALfgPMFVh2mBrp1GvUlccwDYKfYGtyQO09Frrr9BTOV5S6dYYhwwOu7a-2FG=
+q0drFeoF2IImVzkqzBTkd-2BaIcdQlrfVRe5sRsHrSCJUrFN80H6FhJTxTCpXxwJTwjRwXlIY4h=
+nGYcanRFe5D3PTZtCoDBqxy5AKX3zzCCQVIIgcvQEBb9Kjb7Hu4MFICxESQQJKENt6FWAtyv1kg=
+iJuUKJOZUHrDw0tBbaw-3D-3D" style=3D"color: #4183C4 !important; text-decorat=
+ion:none;">documentcloud/docsplit</a>
+    </h3>
+    <p class=3D"extra-stars-column" style=3D"font-style:italic;margin: 0; f=
+ont-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight: normal=
+; font-size: 12px; color: #444;">
+      <span style=3D"margin-right: 10px;">Ruby</span>
+    </p>
+    <p style=3D"margin: 0; font-family:'Helvetica Neue',Helvetica,Arial,san=
+s-serif; font-size: 14px; font-weight: normal; color: #333; line-height: 20=
+px; word-break: normal;">Break Apart Documents into Images, Text, Pages and=
+ PDFs</p>
+  </td>
+  <td class=3D"stars-column" style=3D"vertical-align: top; text-align: righ=
+t; padding-top: 15px;" nowrap>
+    <span style=3D"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;=
+ font-weight: bold; font-size: 16px; margin-left: 10px; color: #333;"><img =
+src=3D"https://github.global.ssl.fastly.net/images/email/explore/star.v2.pn=
+g" width=3D"16" height=3D"16" style=3D"vertical-align: -2px; margin-right: =
+3px;" />1</span>
+  </td>
+</tr>
+
+    </table>
+  </div>
+
+</div>
+
+
+      <div class=3D"content" style=3D"font-size: 12px; color: #222; margin:=
+ 10px auto !important; width: 540px;"><a style=3D"color: #222; font-weight:=
+ normal; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; text-deco=
+ration: none;" href=3D"http://sgmail.github.com/wf/click?upn=3DlYxq-2FYU7yo=
+crdKNILYalBiTxQx8FzJStCf8QIl5rIeq2OIXQPQDsdDZjcvLpC8LtPQeRs2h7JMsqjvNeFi1cS=
+k2lIpabl7K52ROb8ewHEnEKNXvWFZm66dmVCHgfx0DSKhpQFXwT9hgIEQ09y1IAEBq4qZf9teyE=
+S5RSFRaTm-2FYlgFK0CdIInFYny1XFBpDJTOteY6r6LPY4FteGj5i4OOW0K9Wi1H-2FIFMcUoce=
+uvv-2FQ9h6-2BSgs6Nmp2RST-2B2ydMNB6zB1go0mCI61ko54vTF-2Bcn9t-2BX8zTcImPzw45K=
+VeXlxf5klFDZ3UOJb6wejbI5_HDu-2BON2WuckNVJ2U1s3AlEAJuiA8UQBl3GGL5dVTfxjEztdm=
+51ZCaALfgPMFVh2miM8lWORPRKPKLZU5mAG8qQtrXDFBsPWEI4KCqnFJ-2Bn4YaR6aUtaMi8K6a=
+-2FzozCGX9VkssVX5dWUHL-2F154BNMV2nwQKXPAeNBjzOU-2B60pOClmXpe-2B4L-2BU7wicQH=
+86FLdNkZ6FSRC6VjxagDmzBF44ygDaZ9dUTbo-2Bn3Cya-2FLWDBRgMfRjAE0vuNkZODeFEPXPX=
+i787hoP6kI4zKap0f3Iug-3D-3D">Unsubscribe from these newsletters.</a></div>
+
+      <div class=3D"mark" style=3D"margin: 20px 0; text-align: center;">
+        <img src=3D"https://github.global.ssl.fastly.net/images/email/explo=
+re/octocat.v2.png" width=3D"40" height=3D"40" />
+      </div>
+    </div>
+=20=20
+<img src=3D"http://sgmail.github.com/wf/open?upn=3DHDu-2BON2WuckNVJ2U1s3AlE=
+AJuiA8UQBl3GGL5dVTfxjEztdm51ZCaALfgPMFVh2mB2sSreVAMx7spIXRC1-2BbN4fOjGQkqWq=
+RsB-2FfmAYCVHrwmLnKLDtXE8dJxjodzHiTgVIXP44kRqE9ddxKAlrDBCiQT1sBieLb6h95-2BP=
+dbEBzOuw4W4FoPEBjsy2BcvyLtHmgrkkGv91iNXx67l66cbbiww5BO0KDUAwAvH05kEjenKOfYQ=
+Pc21106lNoI3MpxdcpQpVCDO65HMNAJbnhnVQ-3D-3D" alt=3D"" width=3D"1" height=3D=
+"1" border=3D"0" style=3D"height:1px !important;width:1px !important;border=
+-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;marg=
+in-right:0 !important;margin-left:0 !important;padding-top:0 !important;pad=
+ding-bottom:0 !important;padding-right:0 !important;padding-left:0 !importa=
+nt;"/>
+</body>
+</html>
+
+
+----==_mimepart_530afdb32c3e6_6a963fd524f472b4530b3--

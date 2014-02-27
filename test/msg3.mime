@@ -1,0 +1,1004 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: michael@joinbox.com
+Received: by 10.140.84.146 with SMTP id l18csp98765qgd;
+        Thu, 27 Feb 2014 05:49:22 -0800 (PST)
+X-Received: by 10.236.216.106 with SMTP id f100mr645227yhp.129.1393508962031;
+        Thu, 27 Feb 2014 05:49:22 -0800 (PST)
+Return-Path: <bounce-mc.us5_12148315.179673-michael=joinbox.com@mail64.atl31.mcdlv.net>
+Received: from mail64.atl31.mcdlv.net (mail64.atl31.mcdlv.net. [205.201.134.64])
+        by mx.google.com with ESMTP id a55si7174255yhi.83.2014.02.27.05.49.21
+        for <michael@joinbox.com>;
+        Thu, 27 Feb 2014 05:49:22 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounce-mc.us5_12148315.179673-michael=joinbox.com@mail64.atl31.mcdlv.net designates 205.201.134.64 as permitted sender) client-ip=205.201.134.64;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-mc.us5_12148315.179673-michael=joinbox.com@mail64.atl31.mcdlv.net designates 205.201.134.64 as permitted sender) smtp.mail=bounce-mc.us5_12148315.179673-michael=joinbox.com@mail64.atl31.mcdlv.net;
+       dkim=pass header.i=newsletters=3Df6s.com@mail64.atl31.mcdlv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail64.atl31.mcdlv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=newsletters=3Df6s.com@mail64.atl31.mcdlv.net;
+ bh=9mXS9fzik0c/fzd/LPCgvLFUtVw=;
+ b=gK68Krru2yF/t1lANJZ9hmiRaqDb9H9fWzYSHcVLKHu5ekuOUyIEn+DUSdNu5v190BUEPjsG9e38
+   i4an6PCBbxZ+PMswu2x9a8ToojDqRT4cjot4V65P4LG0g2B4Uja2T1RMxWsISepEPd3Io8MMZ1Wi
+   o8yRIPQZcLmh4eC8WSQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail64.atl31.mcdlv.net;
+ b=NoYFANXi8lFntvOonE77ymeyzwf/C4AZZMIFuNixuklRjn/fgYd6qxMry/502GBVx2K9caAQkTCn
+   VVNTHkslMhOYnqjtKhJgSkV2v8pZKsq0sSNanOjuB2tBWnTPWenOZyeWtGZz92gJH4eAV5iWseO8
+   XyRmTqHEYmBT44SOW1k=;
+Received: from (127.0.0.1) by mail64.atl31.mcdlv.net id h1t1641mqro0 for <michael@joinbox.com>; Thu, 27 Feb 2014 13:49:20 +0000 (envelope-from <bounce-mc.us5_12148315.179673-michael=joinbox.com@mail64.atl31.mcdlv.net>)
+Subject: =?utf-8?Q?New=20=2D=20Apply=20now=20to=20Lisbon=20Challenge=20200=20investors=20and=20no=20equity=20taken?=
+From: =?utf-8?Q?Matt=20Philippe?= <newsletters@f6s.com>
+Reply-To: =?utf-8?Q?Matt=20Philippe?= <newsletters@f6s.com>
+To: =?utf-8?Q?Michael=20Weg?= <michael@joinbox.com>
+Date: Thu, 27 Feb 2014 13:49:20 +0000
+Message-ID: <2b318d0cdd188f8dd0e60a082460b8963e3.20140227134816@mail64.atl31.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CID69f216d360460b8963e3**
+X-Campaign: mailchimp2b318d0cdd188f8dd0e60a082.69f216d360
+X-campaignid: mailchimp2b318d0cdd188f8dd0e60a082.69f216d360
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=2b318d0cdd188f8dd0e60a082&id=69f216d360&e=460b8963e3
+X-MC-User: 2b318d0cdd188f8dd0e60a082
+X-Feedback-ID: 12148315:12148315.179673:us5:mc
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-2b318d0cdd188f8dd0e60a082-69f216d360-460b8963e3@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://f6s.us5.list-manage2.com/unsubscribe?u=2b318d0cdd188f8dd0e60a082&id=6ef939fd92&e=460b8963e3&c=69f216d360>
+Sender: "Matt Philippe" <newsletters=f6s.com@mail64.atl31.mcdlv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_790999074"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_790999074
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+The Lisbon Challenge drives Startups to global success w/top Investors & M=
+entors
+
+Apply now access 200 leading investors and mentors. No equity taken by pro=
+gram.
+
+http://f6s.us5.list-manage2.com/track/click?u=3D2b318d0cdd188f8dd0e60a082&=
+id=3Da13039eb84&e=3D460b8963e3
+=3D LISBON CHALLENGE (http://f6s.us5.list-manage.com/track/click?u=3D2b318=
+d0cdd188f8dd0e60a082&id=3Da78a5be1b2&e=3D460b8963e3) =3D
+Apply (http://f6s.us5.list-manage1.com/track/click?u=3D2b318d0cdd188f8dd0e=
+60a082&id=3Db614e7e8c8&e=3D460b8963e3) | Find out more (http://f6s.u=
+s5.list-manage.com/track/click?u=3D2b318d0cdd188f8dd0e60a082&id=3D980c7e1f=
+7b&e=3D460b8963e3)
+Lisbon=2C Portugal | May 2 - Jul 31
+
+3-month acceleration program with investor days in London=2C Boston and Sa=
+o Paolo
+
+
+Top Deals
+
+1. 3Mo Free of the Web's Best SEO (http://f6s.us5.list-manage.com/track/cl=
+ick?u=3D2b318d0cdd188f8dd0e60a082&id=3D26643bbffa&e=3D460b8963e3)
+MOZ | Value: $297
+
+2. #1 Live Chat/Support (http://f6s.us5.list-manage.com/track/click?u=3D2b=
+318d0cdd188f8dd0e60a082&id=3Db783325a45&e=3D460b8963e3)
+Zopim | Value: $200
+
+3. $1000 of Zendesk credit! (http://f6s.us5.list-manage.com/track/click?u=
+=3D2b318d0cdd188f8dd0e60a082&id=3D6248f196f7&e=3D460b8963e3)
+Zendesk | Value: $1=2C000
+
+See all Deals (http://f6s.us5.list-manage.com/track/click?u=3D2b318d0cdd18=
+8f8dd0e60a082&id=3D8a5d1c5e71&e=3D460b8963e3)
+
+
+Apply for the Lisbon Challenge acceleration program and go global!
+
+Lisbon Challenge applications are open until March 17th. We are looking fo=
+r high impact tech based startups (Web=2C SaaS=2C Games=2C Tourism=2C Mach=
+ine-to-Machine and Energy efficiency sectors)=2C from early prototype to p=
+roduct stage=2C with a solid team and eager to make it to the next level.=
+ In this challenging journey=2C you will have access to 1:1 mentoring sess=
+ions and to Investors Day on an international roadshow that will take the=
+ 10 best teams to London=2C Sao Paulo and Boston. We have a 200-strong men=
+tor and investor entrepreneurial network to provide the boost your startup=
+ needs. No equity is taken! Apply now! (http://f6s.us5.list-manage.com/tra=
+ck/click?u=3D2b318d0cdd188f8dd0e60a082&id=3Df4674dd73b&e=3D=
+460b8963e3)
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+You are receiving this email because you are a user of f6s.com You can upd=
+ate your preferences anytime in your at any time to stop receiving emails=
+ or .
+F6S Network Limited
+Kemp House=2C 152-160 City Road
+London=2C  EC1V 2NP
+United Kingdom
+You are receiving this email because you are a user of f6s.com You can upd=
+ate your preferences anytime in your at any time to stop receiving emails=
+ or .
+F6S Network Limited
+Kemp House=2C 152-160 City Road
+London=2C  EC1V 2NP
+United Kingdom
+
+** account settings page (http://f6s.us5.list-manage1.com/track/click?u=3D=
+2b318d0cdd188f8dd0e60a082&id=3D2a2c834de0&e=3D460b8963e3)
+** unsubscribe (http://f6s.us5.list-manage2.com/unsubscribe?u=3D2b318d0cdd=
+188f8dd0e60a082&id=3D6ef939fd92&e=3D460b8963e3&c=3D69f216d360)
+--_----------=_MCPart_790999074
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+        <!-- Facebook sharing information tags -->
+        <meta property=3D"og:title" content=3D"New - Apply now to Lisbon C=
+hallenge 200 investors and no equity taken">
+
+        <title>New - Apply now to Lisbon Challenge 200 investors and no eq=
+uity taken</title>
+        <style type=3D"text/css">
+        /* NOTE: CSS should be inlined to avoid having it stripped in cert=
+ain email clients like GMail. */
+
+            /* Client-specific Styles */
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in=
+ browser" button. */
+            body{width:100% !important;} /* Force Hotmail to display email=
+s at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platfor=
+ms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;}
+            img{border:none; font-size:14px; font-weight:bold; height:auto=
+; line-height:100%; outline:none; text-decoration:none; text-transform:cap=
+italize;}
+            #backgroundTable{height:100% !important; margin:0; padding:0;=
+ width:100% !important;}
+
+            /* Template Styles */
+
+            /* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: COMMON PAGE ELEMENTS=
+ /\/\/\/\/\/\/\/\/\/\ */
+
+            /**
+            * @tab Page
+            * @section background color
+            * @tip Set the background color for your email. You may want t=
+o choose one that matches your company's branding.
+            * @theme page
+            */
+            body=2C .backgroundTable{
+                background-color:#FFFFFF;
+            }
+
+            /**
+            * @tab Page
+            * @section email border
+            * @tip Set the border for your email.
+            */
+            #templateContainer{
+                border: none;
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f !important;
+            }
+
+            /**
+            * @tab Page
+            * @section non breakable space
+            * @tip Add a non breakable space
+            */
+            .nbsp {
+                mso-line-height-rule:exactly;
+                line-height:1px;
+                font-size:1px;
+            }
+
+            /**
+            * @tab Page
+            * @section heading 1
+            * @tip Set the styling for all first-level headings in your em=
+ails. These should be the largest of your headings.
+            * @theme heading1
+            */
+            h1=2C .h1{
+                color:#565656;
+                display:block;
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f;
+                font-size:19px;
+                font-weight:bold;
+                line-height:100%;
+                text-align:left;
+            }
+
+            /**
+            * @tab Page
+            * @section heading 2
+            * @tip Set the styling for all second-level headings in your e=
+mails.
+            * @theme heading2
+            */
+            h2=2C .h2{
+                color:#565656;
+                display:block;
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f;
+                font-size:15px;
+                font-weight:bold;
+                line-height:100%;
+                text-align:left;
+            }
+
+            /**
+            * @tab Page
+            * @section heading 3
+            * @tip Set the styling for all third-level headings in your em=
+ails.
+            * @theme heading3
+            */
+            h3=2C .h3 {
+                color:#0066CC;
+                display:block;
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f;
+                font-size:14px;
+                font-weight:normal;
+                line-height:100%;
+                text-align:left;
+                text-decoration:none;
+            }
+
+            /* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: HEADER /\/\/\/\/\/\/=
+\/\/\/\ */
+
+            /**
+            * @tab Header
+            * @section header style
+            * @tip Set the background color and border for your email's he=
+ader area.
+            * @theme header
+            */
+            #templateHeader{
+                /*@editable*/ background-color:#FFFFFF;
+                /*@editable*/ border-bottom:0;
+            }
+
+            /**
+            * @tab Header
+            * @section header text
+            * @tip Set the styling for your email's header text. Choose a=
+ size and color that is easy to read.
+            */
+            .headerContent{
+                color:#727272;
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f;
+                font-size:13px;
+                line-height:100%;
+                padding:0;
+                text-align:left;
+                vertical-align:middle;
+            }
+
+            /**
+            * @tab Header
+            * @section header link
+            * @tip Set the styling for your email's header links. Choose a=
+ color that helps them stand out from your text.
+            */
+            .headerContent a:link=2C .headerContent a:visited{
+                /*@editable*/ color:#336699;
+                /*@editable*/ font-weight:normal;
+                /*@editable*/ text-decoration:underline;
+            }
+
+            #headerImage{
+                max-width:600px !important;
+                width:41px;
+                height:41px;
+            }
+
+            /* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: MAIN BODY /\/\/\/\/\=
+/\/\/\/\/\ */
+
+            /**
+            * @tab Body
+            * @section body style
+            * @tip Set the background color for your email's body area.
+            */
+            #templateContainer=2C .bodyContent{
+                background-color:#FFFFFF;
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f;
+                text-align:left;
+            }
+
+            /**
+            * @tab Body
+            * @section body text
+            * @tip Set the styling for your email's main content text. Cho=
+ose a size and color that is easy to read.
+            * @theme main
+            */
+            .bodyContent div{
+                color:#727272;
+                font-size:13px;
+                line-height:150%;
+            }
+
+            .bodyContent img{
+                display:inline;
+                margin-bottom:0px;
+            }
+
+            .bodyContent table.thumb-border{
+                border:1px solid #e5e5e5;
+                border-bottom:1px solid #bfbfbf;
+            }
+
+            .bodyContent table.thumb-border .thumb-holder {
+                font-size:70px;
+                mso-line-height-rule: exactly;
+                line-height:70px;
+            }
+
+            .bodyContent img.thumb-70{
+                width: 70px;
+                height: 70px;
+            }
+
+            .bodyContent span.title=2C
+            .bodyContent span.title a:link=2C
+            .bodyContent span.title a:visited{
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f !important;
+                color:#0066CC;
+                font-size:17px;
+                font-weight:normal;
+                line-height:140%;
+                text-decoration:none;
+            }
+
+            .bodyContent a.action{
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f !important;
+                color:#DE1414;
+                font-size:16px;
+                line-height:160%;
+                text-decoration:none;
+            }
+
+            .bodyContent a.action-big{
+                color:#DE1414;
+                font-size:16px;
+                line-height:160%;
+                text-decoration:none;
+            }
+
+            .bodyContent span.info{
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f !important;
+                color:#000000;
+                font-size:15px;
+                line-height:160%;
+            }
+
+            .bodyContent a.blue-link:link=2C
+            .bodyContent a.blue-link:visited{
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f !important;
+                color:#0066CC;
+                font-size:14px;
+                line-height:100%;
+                text-decoration:none;
+            }
+
+            .bodyContent a.blue-link-small:link=2C
+            .bodyContent a.blue-link-small:visited{
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f !important;
+                color:#0066CC;
+                font-size:13px;
+                line-height:100%;
+                text-decoration:none;
+            }
+
+            .bodyContent .plain-text{
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f !important;
+                color:#727272;
+                font-size:13px;
+                line-height:120%;
+            }
+
+            .bodyContent tr.list-row{
+                color:#727272;
+                font-size:13px;
+                line-height:100%;
+            }
+
+            .bodyContent .list-number {
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f !important;
+                line-height:150%;
+            }
+
+            .bodyContent .list-item {
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f !important;
+                color:#727272;
+                line-height:120%;
+            }
+
+            .bodyContent .list-item a:link=2C
+            .bodyContent .list-item a:visited{
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f !important;
+                color:#0066CC;
+                text-decoration:none;
+                line-height:150%;
+            }
+
+            .bodyContent div.line{
+                border-top:1px solid #e5e5e5;
+                font-size: 1px;
+                line-height: 1px;
+            }
+
+            /* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: FOOTER /\/\/\/\/\/\/=
+\/\/\/\ */
+
+            /**
+            * @tab Footer
+            * @section footer style
+            * @tip Set the background color and top border for your email'=
+s footer area.
+            * @theme footer
+            */
+            #templateFooter{
+                background-color:#FFFFFF;
+                border:0;
+            }
+
+            /**
+            * @tab Footer
+            * @section footer text
+            * @tip Set the styling for your email's footer text. Choose a=
+ size and color that is easy to read.
+            * @theme footer
+            */
+            .footerContent{
+                color:#000000;
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f;
+                font-size:13px;
+                line-height:125%;
+                text-align:left;
+            }
+
+            /**
+            * @tab Footer
+            * @section footer link
+            * @tip Set the styling for your email's footer links. Choose a=
+ color that helps them stand out from your text.
+            */
+            .footerContent a:link=2C .footerContent div a:visited=2C
+            .footerContent span.highlight{
+                color:#0066CC;
+                font-weight:normal;
+                text-decoration:underline;
+            }
+
+            .footerContent img{
+                display:inline;
+            }
+
+            .footerContent div.line{
+                border-top:1px solid #e5e5e5;
+            }
+
+            .footerContent span.small-font{
+                font-family:Helvetica Neue=2CHelvetica=2CArial=2Csans-seri=
+f !important;
+                font-size:13px;
+                line-height:125%;
+            }
+        </style>
+    </head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"-webkit-text-size-adjust: none;margin: 0;padd=
+ing: 0;background-color: #FFFFFF;width: 100% !important;">
+        <center>
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=
+=3D"100%" width=3D"100%" id=3D"backgroundTable" style=3D"margin: 0;padding=
+: 0;height: 100% !important;width: 100% !important;">
+                <tr>
+                    <td align=3D"center" valign=3D"top">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"600" id=3D"templateContainer" style=3D"border: none;backgr=
+ound-color: #FFFFFF;font-family: Helvetica Neue=2CHelvetica=2CArial=2Csans=
+-serif !important;text-align: left;">
+                            <tr>
+                                <td align=3D"center" valign=3D"top">
+                                    <!-- // Begin Template Header \\ -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateHeader" style=3D"background=
+-color: #FFFFFF;border-bottom: 0;">
+                                        <tr>
+                                            <td class=3D"nbsp" height=3D"2=
+0" style=3D"mso-line-height-rule: exactly;line-height: 1px;font-size: 1px;=
+">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td class=3D"nbsp" width=3D"10=
+" style=3D"mso-line-height-rule: exactly;line-height: 1px;font-size: 1px;"=
+>&nbsp;</td>
+                                            <td class=3D"headerContent" wi=
+dth=3D"41" style=3D"color: #727272;font-family: Helvetica Neue=2CHelvetica=
+=2CArial=2Csans-serif;font-size: 13px;line-height: 100%;padding: 0;text-al=
+ign: left;vertical-align: middle;">
+                                                <img src=3D"http://www.f6s=
+=2Ecom/images/logo_newsletter.png" style=3D"max-width: 600px;border: none;fo=
+nt-size: 14px;font-weight: bold;height: 41px;line-height: 100%;outline: no=
+ne;text-decoration: none;text-transform: capitalize;width: 41px;" id=3D"he=
+aderImage" height=3D"41" width=3D"41">
+                                            </td>
+                                            <td class=3D"nbsp" width=3D"20=
+" style=3D"mso-line-height-rule: exactly;line-height: 1px;font-size: 1px;"=
+>&nbsp;</td>
+                                            <td class=3D"headerContent" st=
+yle=3D"color: #727272;font-family: Helvetica Neue=2CHelvetica=2CArial=2Csa=
+ns-serif;font-size: 13px;line-height: 100%;padding: 0;text-align: left;ver=
+tical-align: middle;">
+                                                <span class=3D"h1" style=
+=3D"color: #565656;display: block;font-family: Helvetica Neue=2CHelvetica=
+=2CArial=2Csans-serif;font-size: 19px;font-weight: bold;line-height: 100%;=
+text-align: left;">The Lisbon Challenge drives Startups to global success=
+ w/top Investors &amp; Mentors</span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class=3D"nbsp" height=3D"30" style=3D"=
+mso-line-height-rule: exactly;line-height: 1px;font-size: 1px;">&nbsp;</td=
+>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top">
+                                    <!-- // Begin Template Body \\ -->
+                                    <table border=3D"0" cellpadding=3D"10"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateBody">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"bo=
+dyContent" style=3D"background-color: #FFFFFF;font-family: Helvetica Neue=
+=2CHelvetica=2CArial=2Csans-serif;text-align: left;">
+
+                                                <!-- // Begin Module: Stan=
+dard Content \\ -->
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ width=3D"55%">
+                                                            <!-- // Begin=
+ Module: Item list \\ -->
+                                                            <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                                         =
+                                                                         =
+                                                                         =
+                                                                         =
+                                                                         =
+                                                                         =
+                                                                         =
+                                                                         =
+                                                                         =
+                                                                         =
+                                                                         =
+                         <tr>
+                                                                        <t=
+d valign=3D"middle">
+                                                                         =
+   <span class=3D"h2" style=3D"color: #565656;display: block;font-family:=
+ Helvetica Neue=2CHelvetica=2CArial=2Csans-serif;font-size: 15px;font-weig=
+ht: bold;line-height: 100%;text-align: left;">Apply now access 200 leading=
+ investors and mentors. No equity taken by program.</span>
+                                                                        </=
+td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <t=
+d class=3D"nbsp" height=3D"14" style=3D"mso-line-height-rule: exactly;line=
+-height: 1px;font-size: 1px;">&nbsp;</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <t=
+d>
+                                                                         =
+   <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                                         =
+       <tr>
+                                                                         =
+           <td width=3D"78">
+                                                                         =
+               <table border=3D"0" cellpadding=3D"3" cellspacing=3D"0" wid=
+th=3D"100%" class=3D"thumb-border" style=3D"border: 1px solid #e5e5e5;bord=
+er-bottom: 1px solid #bfbfbf;">
+                                                                         =
+                   <tr>
+                                                                         =
+                       <td valign=3D"top" style=3D"vertical-align:top"><sp=
+an class=3D"thumb-holder" style=3D"font-size: 70px;mso-line-height-rule: e=
+xactly;line-height: 70px;"><a href=3D"http://f6s.us5.list-manage1.com/trac=
+k/click?u=3D2b318d0cdd188f8dd0e60a082&id=3D683002940c&e=3D460b8963e3" tar=
+get=3D"_blank"><img class=3D"thumb-70" src=3D"http://www.f6s.com/pictures/=
+profiles/13/1200/119963_th2.jpg" alt=3D"" width=3D"70" height=3D"70" style=
+=3D"vertical-align: top;border: none;font-size: 14px;font-weight: bold;hei=
+ght: 70px;line-height: 100%;outline: none;text-decoration: none;text-trans=
+form: capitalize;display: inline;margin-bottom: 0px;width: 70px;"></a></sp=
+an></td>
+                                                                         =
+                   </tr>
+                                                                         =
+               </table>
+                                                                         =
+           </td>
+                                                                         =
+           <td class=3D"nbsp" width=3D"15" style=3D"mso-line-height-rule:=
+ exactly;line-height: 1px;font-size: 1px;">&nbsp;</td>
+                                                                         =
+           <td>
+                                                                         =
+               <span class=3D"title" style=3D"color: #0066CC;font-size: 17=
+px;font-weight: normal;line-height: 140%;text-decoration: none;font-family=
+: Helvetica Neue=2CHelvetica=2CArial=2Csans-serif !important;">
+                                                                         =
+                   <a href=3D"http://f6s.us5.list-manage2.com/track/click?=
+u=3D2b318d0cdd188f8dd0e60a082&id=3D6c3db5182a&e=3D460b8963e3" target=3D"_=
+blank" style=3D"color: #0066CC;font-size: 17px;font-weight: normal;line-he=
+ight: 140%;text-decoration: none;font-family: Helvetica Neue=2CHelvetica=
+=2CArial=2Csans-serif !important;">Lisbon Challenge</a>
+                                                                         =
+               </span>
+                                                                         =
+               <br>
+                                                                         =
+               <a class=3D"action" href=3D"http://f6s.us5.list-manage.com/=
+track/click?u=3D2b318d0cdd188f8dd0e60a082&id=3D4b13738a2a&e=3D460b8963e3"=
+ target=3D"_blank" style=3D"color: #DE1414;font-size: 16px;line-height: 16=
+0%;text-decoration: none;font-family: Helvetica Neue=2CHelvetica=2CArial=
+=2Csans-serif !important;">Apply</a> | <a class=3D"action" href=3D"http://=
+f6s.us5.list-manage1.com/track/click?u=3D2b318d0cdd188f8dd0e60a082&id=3D61=
+6a5860af&e=3D460b8963e3" target=3D"_blank" style=3D"color: #DE1414;font-s=
+ize: 16px;line-height: 160%;text-decoration: none;font-family: Helvetica N=
+eue=2CHelvetica=2CArial=2Csans-serif !important;">Find out more</a>
+                                                                         =
+               <br>
+                                                                         =
+                                                                         =
+                              <span class=3D"info" style=3D"font-size: 14p=
+x;color: #000000;line-height: 160%;font-family: Helvetica Neue=2CHelvetica=
+=2CArial=2Csans-serif !important;">Lisbon=2C Portugal | May 2  - Jul 31 </=
+span>
+                                                                         =
+           </td>
+                                                                         =
+       </tr>
+                                                                         =
+       <tr>
+                                                                         =
+           <td class=3D"nbsp" height=3D"10" style=3D"mso-line-height-rule:=
+ exactly;line-height: 1px;font-size: 1px;">&nbsp;</td>
+                                                                         =
+       </tr>
+                                                                         =
+       <tr>
+                                                                         =
+           <td colspan=3D"3"><span class=3D"info" style=3D"color: #000000;=
+font-size: 15px;line-height: 160%;font-family: Helvetica Neue=2CHelvetica=
+=2CArial=2Csans-serif !important;"><em>3-month acceleration program with i=
+nvestor days in London=2C Boston and Sao Paolo</em></span></td>
+                                                                         =
+       </tr>
+                                                                         =
+       <tr>
+                                                                         =
+           <td class=3D"nbsp" height=3D"20" style=3D"mso-line-height-rule:=
+ exactly;line-height: 1px;font-size: 1px;">&nbsp;</td>
+                                                                         =
+       </tr>
+                                                                         =
+   </table>
+                                                                        </=
+td>
+                                                                    </tr>
+                                                                         =
+                                                   </table>
+                                                            <!-- // End Mo=
+dule: Item List \\ -->
+
+                                                        </td>
+
+                                                        <td width=3D"30" c=
+lass=3D"nbsp;">&nbsp;</td>
+
+                                                        <td valign=3D"top"=
+ width=3D"230">
+                                                               <div style=
+=3D"width: 230px;color: #727272;font-size: 13px;line-height: 150%;">
+                                                                <table bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                                    <tr>
+                                                                        <t=
+d valign=3D"middle">
+                                                                         =
+   <span class=3D"h2" style=3D"color: #565656;display: block;font-family:=
+ Helvetica Neue=2CHelvetica=2CArial=2Csans-serif;font-size: 15px;font-weig=
+ht: bold;line-height: 100%;text-align: left;">Top Deals</span>
+                                                                        </=
+td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <t=
+d>
+                                                                         =
+   <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                                         =
+                                                                         =
+                                                                         =
+                         <tr>
+                                                                         =
+               <td class=3D"nbsp" height=3D"8" style=3D"mso-line-height-ru=
+le: exactly;line-height: 1px;font-size: 1px;">&nbsp;</td>
+                                                                         =
+           </tr>
+                                                                         =
+                                                                         =
+                                                                         =
+                                 <tr class=3D"list-row" style=3D"color: #7=
+27272;font-size: 13px;line-height: 100%;">
+                                                                         =
+               <td valign=3D"top" class=3D"list-number" width=3D"23" style=
+=3D"line-height: 150%;font-family: Helvetica Neue=2CHelvetica=2CArial=2Csa=
+ns-serif !important;">1. </td>
+                                                                         =
+               <td valign=3D"top" class=3D"list-item" style=3D"color: #727=
+272;line-height: 120%;font-family: Helvetica Neue=2CHelvetica=2CArial=2Csa=
+ns-serif !important;">
+                                                                         =
+                    <a target=3D"_blank" href=3D"http://f6s.us5.list-manag=
+e.com/track/click?u=3D2b318d0cdd188f8dd0e60a082&id=3Dc59d5b8ed9&e=3D=
+460b8963e3" style=3D"color: #0066CC;text-decoration: none;line-height: 150%;fon=
+t-family: Helvetica Neue=2CHelvetica=2CArial=2Csans-serif !important;">3Mo=
+ Free of the Web's Best SEO</a>
+                                                                         =
+                    <br>
+                                                                         =
+                    MOZ | Value: $297                                    =
+                                                    </td>
+                                                                         =
+           </tr>
+                                                                         =
+                                                                         =
+                                                                         =
+                             <tr>
+                                                                         =
+               <td class=3D"nbsp" height=3D"8" style=3D"mso-line-height-ru=
+le: exactly;line-height: 1px;font-size: 1px;">&nbsp;</td>
+                                                                         =
+           </tr>
+                                                                         =
+                                                                         =
+                                                                         =
+                                 <tr class=3D"list-row" style=3D"color: #7=
+27272;font-size: 13px;line-height: 100%;">
+                                                                         =
+               <td valign=3D"top" class=3D"list-number" width=3D"23" style=
+=3D"line-height: 150%;font-family: Helvetica Neue=2CHelvetica=2CArial=2Csa=
+ns-serif !important;">2. </td>
+                                                                         =
+               <td valign=3D"top" class=3D"list-item" style=3D"color: #727=
+272;line-height: 120%;font-family: Helvetica Neue=2CHelvetica=2CArial=2Csa=
+ns-serif !important;">
+                                                                         =
+                    <a target=3D"_blank" href=3D"http://f6s.us5.list-manag=
+e.com/track/click?u=3D2b318d0cdd188f8dd0e60a082&id=3Df6784b3682&e=3D=
+460b8963e3" style=3D"color: #0066CC;text-decoration: none;line-height: 150%;fon=
+t-family: Helvetica Neue=2CHelvetica=2CArial=2Csans-serif !important;">#1=
+ Live Chat/Support</a>
+                                                                         =
+                    <br>
+                                                                         =
+                    Zopim | Value: $200                                  =
+                                                      </td>
+                                                                         =
+           </tr>
+                                                                         =
+                                                                         =
+                                                                         =
+                             <tr>
+                                                                         =
+               <td class=3D"nbsp" height=3D"8" style=3D"mso-line-height-ru=
+le: exactly;line-height: 1px;font-size: 1px;">&nbsp;</td>
+                                                                         =
+           </tr>
+                                                                         =
+                                                                         =
+                                                                         =
+                                 <tr class=3D"list-row" style=3D"color: #7=
+27272;font-size: 13px;line-height: 100%;">
+                                                                         =
+               <td valign=3D"top" class=3D"list-number" width=3D"23" style=
+=3D"line-height: 150%;font-family: Helvetica Neue=2CHelvetica=2CArial=2Csa=
+ns-serif !important;">3. </td>
+                                                                         =
+               <td valign=3D"top" class=3D"list-item" style=3D"color: #727=
+272;line-height: 120%;font-family: Helvetica Neue=2CHelvetica=2CArial=2Csa=
+ns-serif !important;">
+                                                                         =
+                    <a target=3D"_blank" href=3D"http://f6s.us5.list-manag=
+e.com/track/click?u=3D2b318d0cdd188f8dd0e60a082&id=3Decd8cda705&e=3D=
+460b8963e3" style=3D"color: #0066CC;text-decoration: none;line-height: 150%;fon=
+t-family: Helvetica Neue=2CHelvetica=2CArial=2Csans-serif !important;">$10=
+00 of Zendesk credit! </a>
+                                                                         =
+                    <br>
+                                                                         =
+                    Zendesk | Value: $1=2C000                            =
+                                                            </td>
+                                                                         =
+           </tr>
+                                                                         =
+                                                                         =
+                                                                         =
+                     </table>
+                                                                        </=
+td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <t=
+d class=3D"nbsp" height=3D"10" style=3D"mso-line-height-rule: exactly;line=
+-height: 1px;font-size: 1px;">&nbsp;</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <t=
+d valign=3D"middle">
+                                                                         =
+   <a href=3D"http://f6s.us5.list-manage2.com/track/click?u=3D2b318d0cdd18=
+8f8dd0e60a082&id=3Dff04b13441&e=3D460b8963e3" target=3D"_blank" class=3D"=
+blue-link" style=3D"color: #0066CC;font-size: 14px;line-height: 100%;text-=
+decoration: none;font-family: Helvetica Neue=2CHelvetica=2CArial=2Csans-se=
+rif !important;">See all Deals</a>
+                                                                        </=
+td>
+                                                                    </tr>
+                                                                </table>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan=3D"3">
+                                                            <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                                <tr>
+                                                                    <td cl=
+ass=3D"nbsp" height=3D"15" style=3D"mso-line-height-rule: exactly;line-hei=
+ght: 1px;font-size: 1px;">&nbsp;</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td cl=
+ass=3D"nbsp" style=3D"mso-line-height-rule: exactly;line-height: 1px;font-=
+size: 1px;">
+                                                                        <d=
+iv class=3D"line" style=3D"line-height: 15px;color: #727272;font-size: 1px=
+;border-top: 1px solid #e5e5e5;">&nbsp;</div>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                         =
+                                                                         =
+                                                                      <spa=
+n class=3D"info" style=3D"color: #727272;font-size: 13px;line-height: 160%=
+;font-family: Helvetica Neue=2CHelvetica=2CArial=2Csans-serif !important;"=
+><b>Apply for the Lisbon Challenge acceleration program and go global!</b>=
+<span style=3D"font-size:13px; line-height: 13px"><br><br></span>Lisbon Ch=
+allenge applications are open until March 17th. We are looking for high im=
+pact tech based startups (Web=2C SaaS=2C Games=2C Tourism=2C Machine-to-Ma=
+chine and Energy efficiency sectors)=2C from early prototype to product st=
+age=2C with a solid team and eager to make it to the next level. In this c=
+hallenging journey=2C you will have access to 1:1 mentoring sessions and t=
+o Investors Day on an international roadshow that will take the 10 best te=
+ams to London=2C Sao Paulo and Boston. We have a 200-strong mentor and inv=
+estor entrepreneurial network to provide the boost your startup needs. <st=
+rong>No equity is taken!</strong> <a href=3D"http://f6s.us5.list-manage.co=
+m/track/click?u=3D2b318d0cdd188f8dd0e60a082&id=3D93a0e8507a&e=3D=
+460b8963e3" target=3D"_blank" class=3D"blue-link-small" style=3D"color: #0066CC;fon=
+t-size: 13px;line-height: 100%;text-decoration: none;font-family: Helvetic=
+a Neue=2CHelvetica=2CArial=2Csans-serif !important;">Apply now!</a></span>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standa=
+rd Content \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top">
+                                    <!-- // Begin Template Footer \\ -->
+                                    <table border=3D"0" cellpadding=3D"10"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateFooter" style=3D"background=
+-color: #FFFFFF;border: 0;">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"fo=
+oterContent" style=3D"color: #000000;font-family: Helvetica Neue=2CHelveti=
+ca=2CArial=2Csans-serif;font-size: 13px;line-height: 125%;text-align: left=
+;">
+
+                                                <!-- // Begin Module: Stan=
+dard Footer \\ -->
+                                                <div class=3D"line" style=
+=3D"border-top: 1px solid #e5e5e5;">
+
+                                                    <table border=3D"0" ce=
+llpadding=3D"10" cellspacing=3D"0" width=3D"100%">
+                                                        <tr>
+                                                            <td><span clas=
+s=3D"small-font" style=3D"font-size: 13px;line-height: 125%;font-family: H=
+elvetica Neue=2CHelvetica=2CArial=2Csans-serif !important;">You are receiv=
+ing this email because you are a user of f6s.com You can update your prefe=
+rences anytime in your <a href=3D"http://f6s.us5.list-manage1.com/track/cl=
+ick?u=3D2b318d0cdd188f8dd0e60a082&id=3Db2ae725cf2&e=3D460b8963e3" target=
+=3D"_blank" style=3D"color: #0066CC;font-weight: normal;text-decoration: u=
+nderline;">account settings page</a> at any time to stop receiving emails=
+ or <a href=3D"http://f6s.us5.list-manage2.com/unsubscribe?u=3D2b318d0cdd1=
+88f8dd0e60a082&id=3D6ef939fd92&e=3D460b8963e3&c=3D69f216d360" style=3D"color=
+: #0066CC;font-weight: normal;text-decoration: underline;">unsubscribe</a>=
+=2E</span></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td><em><span=
+ class=3D"small-font" style=3D"font-size: 13px;line-height: 125%;font-fami=
+ly: Helvetica Neue=2CHelvetica=2CArial=2Csans-serif !important;">F6S Netwo=
+rk Limited
+Kemp House=2C 152-160 City Road
+London=2C  EC1V 2NP
+United Kingdom</span></em></td>
+                                                        </tr>
+                                                    </table>
+                                                </div>
+                                                <!-- // End Module: Standa=
+rd Footer \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Footer \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                        <br>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://f6s.us5.list-manage.com/track/open.php?u=3D2b318d0c=
+dd188f8dd0e60a082&id=3D69f216d360&e=3D460b8963e3" height=3D"1" width=3D"1=
+"></body>
+</html>
+--_----------=_MCPart_790999074--

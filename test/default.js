@@ -50,7 +50,7 @@
 
 			decoder.on('end', function(){
 				var message = decoder.getMessage();
-				assert.equal('25d33c61d72c4f62c88c9e4332c80de0', calculateMessageHash(message), 'message hash is different!')
+				assert.equal('68b329da9893e34099c7d8ad5cb9c940e39ef38b0f5f92e44f56f5b8154ca153', calculateMessageHash(message), 'message hash is different!')
 				done();
 			});
 
@@ -66,7 +66,7 @@
 
 			decoder.on('end', function(){
 				var message = decoder.getMessage();
-				assert.equal('25d33c61d72c4f62c88c9e4332c80de0680b19a5a4ab2c3f8411d8ee5eedbc37', calculateMessageHash(message), 'message hash is different!')
+				assert.equal('8fd00b79a57ca636c5269a06ed3e20eb', calculateMessageHash(message), 'message hash is different!')
 				done();
 			});
 
@@ -82,7 +82,7 @@
 
 			decoder.on('end', function(){
 				var message = decoder.getMessage();
-				assert.equal('b2f37d2a842bba7e65dda555acf7a31534fa42efd280978cd7c25620ff0e55af5a44dda67ac19503e5a196cdb00b7ce2', calculateMessageHash(message), 'message hash is different!')
+				assert.equal('fa8053b8c2f30c132b7b3c98a61976f837c7640ae14c9ad09b27823098dc8141', calculateMessageHash(message), 'message hash is different!')
 				done();
 			});
 
@@ -98,7 +98,7 @@
 
 			decoder.on('end', function(){
 				var message = decoder.getMessage();
-				assert.equal('fc2e32e44349ac11db1cca51149b5ad3e959e4e446fab9556f881dcb43682aca', calculateMessageHash(message), 'message hash is different!')
+				assert.equal('23c0a943fbebe080fd399d6d6f5c6cd752f8e7716afa2ef5cfebb17d587c63c4', calculateMessageHash(message), 'message hash is different!')
 				done();
 			});
 
