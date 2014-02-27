@@ -11,60 +11,81 @@ If you need to decode mime messages from a http form request you should use the 
 
 # usage
 	
-	var   MimeDecoder 		= require( "ee-mime-decoder" )
-		, StreamCollector 	= require( "ee-stream-collector" );
+	var   MimeDecoder 		= require('ee-mime-decoder')
+		, StreamCollector 	= require('ee-stream-collector');
 
 
-	webserver.on( "request", function( req, res ){
-		var   decoder 		= new MimeDecoder();
+	webserver.on('request', function(req, res){
 
-		// send data from request directly to the decoder
-		req.pipe( decoder );
+		if (req.method === 'POST'){
+			// if the message is already partially parsed you nede to set the content type header 
+			// in the constructor, this is the case when parsing multipart messages sent by
+			// the browser.
+			// if you're parsing emails the headers are already embedded in the emails, so you 
+			// don't have to provide them via the constructor.
+			var decoder = new MimeDecoder(request.headers['Content-Type']); // multipart/mixed; boundary="----------------------------722570873451616639732247"
+
+			// send data from request directly to the decoder
+			req.pipe(decoder);
 
 
-		// handle incoming decoded mime message parts
-		decoder.on( "data", function( obj ){
-			if ( obj.isStream ){
-				// mime objet implementing the readable stream interface
-				// we got a binary mime part ( e.g. attachment, file upload )
+			// handle incoming decoded mime message parts
+			decoder.on('data', function(obj){
+				if (obj.isStream()) {
+					// mime objet implementing the readable stream interface
+					// we got a binary mime part ( e.g. attachment, file upload )
 
-				if ( iWantToCacheTheFileInMemory ){
-					// collect data an store on the mime object
+					if (iWantToCacheTheFileInMemory){
+						// collect data an store on the mime object
 
-					var collector = new StreamCollector();
-					collector.on( "end", function(){
-						// store the data on the mime object
-						obj.data = collector.data;
-					} );
+						var collector = new StreamCollector();
+						collector.on('end', function(){
+							// store the data on the mime object
+							obj.data = collector.data;
+						} );
 
-					// pipe data into collector
-					obj.pipe( collector );
-				}
-				else if ( iWantToStoreTheFilesInTheFileSystem ){
-					// store the file in the fs
-					ob.pipe( fs.createWriteStream( "/path/to/the/new/file" ) );
+						// pipe data into collector
+						obj.pipe(collector);
+					}
+					else if (iWantToStoreTheFilesInTheFileSystem){
+						// store the file in the fs
+						ob.pipe(fs.createWriteStream('/path/to/the/new/file'));
 
-					// we need to know where the data was stored
-					obj.path = "/path/to/the/new/file";
+						// we need to know where the data was stored
+						obj.path = '/path/to/the/new/file';
+					}
+					else {
+						// do whatever you want
+					}
 				}
 				else {
-					// do whatever you want
+					// mime object, we dont need to store the data because its stored on the mimeMessage object of the collector
+					console.dir(obj);
+					// {
+					//    parts: (2):[
+					//        0: {
+					//            length: 19
+					//            , data: "michael@joinbox.com"
+					//        }
+					//        , 1: {
+					//            length: 14
+					//            , data: "securePassword"
+					//        }
+					//    ]
+					//    , length: 2
+					//}
 				}
-			}
-			else {
-				// mime object, we dont need to store the data because its stored on the mimeMessage object of the collector
-				console.dir( obj );
-			}
-		} );
-
-
-		// all data was received, we can now work with it
-		decoder.on( "end", function(){
-			var mimeMessage = decoder.getMessage();
-
-			mimeMessage.parts.forEach( function( part ){
-				console.log( part.length, part.getHeader( "content-type" ) );
-				if ( part.hasChildren() ) console.log( "the part has %s children", part.parts.length );
 			} );
-		} );
+
+
+			// all data was received, we can now work with it
+			decoder.on('end', function(){
+				var mimeMessage = decoder.getMessage();
+
+				mimeMessage.parts.forEach(function(part){
+					console.log(part.length, part.getHeader('content-type'));
+					if (part.hasChildren()) console.log('the part has %s children', part.parts.length);
+				} );
+			} );
+		}
 	} );

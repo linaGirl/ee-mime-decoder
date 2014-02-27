@@ -1,29 +1,38 @@
 {
-      "name"                    : "ee-mime-decoder"
-    , "description"             : "streaming mime message decoder, supports streaming of attachments & file uploads"
-    , "version"                 : "0.1.2"
-    , "homepage"                : "https://github.com/eventEmitter/ee-mime-decoder"
-    , "author"                  : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
-    , "licence"                 : "MIT"
-    , "os"                      : "linux"
+      "name"                        : "ee-mime-decoder"
+    , "description"                 : "streaming mime message decoder, supports streaming of attachments & file uploads"
+    , "version"                     : "0.1.4"
+    , "homepage"                    : "https://github.com/eventEmitter/ee-mime-decoder"
+    , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
+    , "licence"                     : "MIT"
+    , "os"                          : "!windows"
     , "repository": {
-        "url"                   : "https://github.com/eventEmitter/ee-mime-decoder"
+        "url"                       : "https://github.com/eventEmitter/ee-mime-decoder"
     }
     , "engines": {
-        "node"                  : ">=0.10.7"
+        "node"                      : ">=0.10.7"
     }
     , "bugs": {
-        "url"                   : "https://github.com/eventEmitter/ee-mime-decoder/issues"
+        "url"                       : "https://github.com/eventEmitter/ee-mime-decoder/issues"
     }
     , "dependencies": {
-          "ee-class"            : ">=0.1.3"
-        , "ee-log"              : "*"
-        , "ee-event-emitter"    : "*"
-        , "ee-types"            : "*"
-        , "ee-error"            : "*"
-        , "ee-stream-decoder"   : "*"
-        , "ee-stream-collector" : "*"
+          "ee-class"                : ">=0.1.3"
+        , "ee-log"                  : "*"
+        , "ee-event-emitter"        : "*"
+        , "ee-types"                : "*"
+        , "ee-error"                : "*"
+        , "ee-stream-decoder"       : "*"
+        , "ee-stream-collector"     : "*"
     }
-    , "devDependencies": {}
+    , "devDependencies": {
+          "mocha"                   : "*"
+        , "ee-travis"               : "*"
+        , "ee-stream-collector"     : "*"
+        , "ee-project"              : "*"
+    }
     , "optionalDependencies": {}
+    , "keywords"                    : ["mime", "mime-message", "multipart/form-data"]
+    , "scripts": {
+        "test"                      : "./node_modules/mocha/bin/mocha --reporter spec"
+    }
 }
