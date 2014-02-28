@@ -120,4 +120,21 @@
 
 			fs.createReadStream(project.root+'test/msg5.mime').pipe(decoder);
 		});
+
+
+
+		it('Should be able to decode message 6', function(done){
+			var decoder = new Decoder('multipart/form-data; boundary=AaB03x');
+
+			decoder.on('data', handleStream);
+
+			decoder.on('end', function(){
+				var message = decoder.getMessage();
+				log(message);
+				assert.equal('fb93818d01553e9fead6873b780580aec239dddc9c7a19eef9af0052da451a8a', calculateMessageHash(message), 'message hash is different!')
+				done();
+			});
+
+			fs.createReadStream(project.root+'test/msg6.mime').pipe(decoder);
+		});
 	});
