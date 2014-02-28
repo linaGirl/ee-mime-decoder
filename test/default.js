@@ -31,7 +31,7 @@
 
 	var calculateMessageHash = function(message) {
 		var hash = '';
-		(message.parts || []).forEach(function(part){
+		(message.parts || []).forEach(function(part){ //log(part.getHeader('content-disposition'));
 			if (part.hash) hash += part.hash;
 			else if (part.data) hash += md5(part.data);
 			hash += calculateMessageHash(part);
