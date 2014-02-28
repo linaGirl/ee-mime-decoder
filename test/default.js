@@ -22,7 +22,6 @@
 			var stream = new StreamCollector();
 			stream.on('end', function(){
 				part.data = stream.data;
-				part.hash = md5(stream.data);
 			});
 			part.pipe(stream);
 		}
@@ -31,9 +30,8 @@
 
 	var calculateMessageHash = function(message) {
 		var hash = '';
-		(message.parts || []).forEach(function(part){ //log(part.getHeader('content-disposition'));
-			if (part.hash) hash += part.hash;
-			else if (part.data) hash += md5(part.data);
+		(message.parts || []).forEach(function(part){ //log.error('part---', part.getHeader('content-disposition'), part);
+			if (part.data !== undefined) hash += md5(part.data);
 			hash += calculateMessageHash(part);
 		});
 
@@ -50,7 +48,7 @@
 
 			decoder.on('end', function(){
 				var message = decoder.getMessage();
-				assert.equal('68b329da9893e34099c7d8ad5cb9c940e39ef38b0f5f92e44f56f5b8154ca153', calculateMessageHash(message), 'message hash is different!')
+				assert.equal('d41d8cd98f00b204e9800998ecf8427e03dcf7ae67d521b573d381764ebbc42f', calculateMessageHash(message), 'message hash is different!')
 				done();
 			});
 
@@ -130,8 +128,7 @@
 
 			decoder.on('end', function(){
 				var message = decoder.getMessage();
-				log(message);
-				assert.equal('fb93818d01553e9fead6873b780580aec239dddc9c7a19eef9af0052da451a8a', calculateMessageHash(message), 'message hash is different!')
+				assert.equal('4debfdb23bf13d11084b5f6f42f93b897a22164bf25f145183087da4784e81f8cd3b27fe8dee2773db1b7bd3297454cf', calculateMessageHash(message), 'message hash is different!')
 				done();
 			});
 
