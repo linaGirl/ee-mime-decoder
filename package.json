@@ -1,7 +1,7 @@
 {
       "name"                        : "ee-mime-decoder"
     , "description"                 : "streaming mime message decoder, supports streaming of attachments & file uploads"
-    , "version"                     : "0.1.10"
+    , "version"                     : "0.1.11"
     , "homepage"                    : "https://github.com/eventEmitter/ee-mime-decoder"
     , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "licence"                     : "MIT"
@@ -16,20 +16,20 @@
         "url"                       : "https://github.com/eventEmitter/ee-mime-decoder/issues"
     }
     , "dependencies": {
-          "ee-class"                : ">=0.1.3"
-        , "ee-log"                  : "*"
-        , "ee-event-emitter"        : "*"
-        , "ee-types"                : "*"
-        , "ee-error"                : "*"
-        , "ee-stream-decoder"       : "*"
-        , "ee-stream-collector"     : "*"
-        , "ee-argv"                 : "*"
+          "ee-class"                : "0.4.x"
+        , "ee-log"                  : "0.2.x"
+        , "ee-event-emitter"        : "0.1.x"
+        , "ee-types"                : "0.1.x"
+        , "ee-error"                : "0.1.x"
+        , "ee-stream-decoder"       : "0.1.x"
+        , "ee-stream-collector"     : "0.1.x"
+        , "ee-argv"                 : "0.1.x"
     }
     , "devDependencies": {
-          "mocha"                   : "*"
-        , "ee-travis"               : "*"
-        , "ee-stream-collector"     : "*"
-        , "ee-project"              : "*"
+          "mocha"                   : "1.18.x"
+        , "ee-travis"               : "0.1.x"
+        , "ee-stream-collector"     : "0.1.x"
+        , "ee-project"              : "0.2.x"
     }
     , "optionalDependencies": {}
     , "keywords"                    : ["mime", "mime-message", "multipart/form-data"]
