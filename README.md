@@ -1,5 +1,7 @@
 ## ee-mime-decoder
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-mime-decoder.svg)](https://greenkeeper.io/)
+
 decode mime messages. the decoder implements the interface of a writable stream ( v2 ) and a object readable stream ( v2 ). if the decoder encounters binary data like a file upload it will return a separate readable stream for every binary part which is found in the mime message. each of this streams must be consumed, else the decoding of the message will never finish.
 
 If you need to decode mime messages from a http form request you should use the «ee-formdata-reader» module which is much simpler then this module.
